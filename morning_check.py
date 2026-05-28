@@ -55,9 +55,9 @@ def detect_volatility_anomaly(ticker, sigma_threshold=2.0):
 def send_email_notification(message_text):
     """PythonからあなたのiPhoneメールへアラートを送信する関数"""
     # ─── ⚙️ 設定部分 ───
-    sender_email = os.environ.get("GMAIN_MAIL_ADDRESS")
+    sender_email = os.environ.get("SENDER_EMAIL")
     sender_password = os.environ.get("GMAIL_APP_PASSWORD")
-    receiver_email = os.environ.get("ICLOUD_MAIL_ADDRESS")
+    receiver_email = os.environ.get("RECEIVER_EMAIL")
     
     # メッセージの組み立て
     msg = MIMEText(message_text, "plain", "utf-8")
