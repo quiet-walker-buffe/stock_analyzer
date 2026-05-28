@@ -2,12 +2,12 @@ import os
 import smtplib
 from email.mime.text import MIMEText
 from data.download import load_local_data
+import yfinance as yf
 
 def detect_volatility_anomaly(ticker, sigma_threshold=2.0):
     """特定の銘柄が、直近で過去のボラティリティから見て異常な動きをしたか検知する関数"""
     
-    local_data = load_local_data(ticker)
-    df = local_data["history"] # ローカルデータからヒストリカルデータを取得
+    df = yf.download(ticker, period="3mo")
     
     df = df.sort_index() # 日付の重複排除やソートを念のため実行
     
