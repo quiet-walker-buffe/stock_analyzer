@@ -1,7 +1,6 @@
 import os
 import smtplib
 from email.mime.text import MIMEText
-from data.download import load_local_data
 import yfinance as yf
 
 def detect_volatility_anomaly(ticker, sigma_threshold=2.0):
