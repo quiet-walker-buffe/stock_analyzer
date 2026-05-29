@@ -14,13 +14,13 @@ jobs:
     runs-on: ubuntu-latest # クラウド上の最新のLinuxを使う
 
     steps:
-    # 1. GitHub上にあるあなたのPythonコードを仮想パソコンにコピーする
+    # 1. 変更前: actions/checkout@v4 ➡️ 変更後: @v5 にアップ
     - name: Checkout code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
 
-    # 2. 仮想パソコンにPythonをセットアップする
+    # 2. 変更前: actions/setup-python@v5 ➡️ 変更後: @v6 にアップ
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
         python-version: '3.10'
 
