@@ -8,28 +8,23 @@ def detect_volatility_anomaly(ticker, sigma_threshold=2.0):
     """特定の銘柄が、直近で過去のボラティリティから見て異常な動きをしたか検知する関数"""
     
     df = yf.download(ticker, period="3mo")
-    
     df = df.sort_index() # 日付の重複排除やソートを念のため実行
-    
     df['Return'] = df['Close'].pct_change() # 「前日比（リターン）」の列を作る
-    
     # 3. 過去90日間の「移動平均」と「移動標準偏差（σ）」をローリング計算
     # 💡 rolling(90) で直近90日間をスライドさせながら統計値を算出します
-    window_size = 90
+    window_size = 50
     df['Rolling_Mean'] = df['Return'].rolling(window=window_size).mean()
     df['Rolling_Std'] = df['Return'].rolling(window=window_size).std()
-    
     # 4. 異常値の境界線（上限・下限）を計算
     # 💡 平均値 ± (設定したシグマ倍 * 標準偏差)
     df['Upper_Bound'] = df['Rolling_Mean'] + (sigma_threshold * df['Rolling_Std'])
     df['Lower_Bound'] = df['Rolling_Mean'] - (sigma_threshold * df['Rolling_Std'])
-    
     # 5. ─── 🚨 最新日のデータをピンポイントでチェック 🚨 ───
     latest_row = df.iloc[-1]
     latest_date = df.index[-1]
-    latest_return = latest_row['Return']
-    upper = latest_row['Upper_Bound']
-    lower = latest_row['Lower_Bound']
+    latest_return = latest_row['Return'].item()
+    upper = latest_row['Upper_Bound'].item()
+    lower = latest_row['Lower_Bound'].item()
     
     # 判定ロジック
     is_anomaly = False
@@ -41,7 +36,6 @@ def detect_volatility_anomaly(ticker, sigma_threshold=2.0):
     elif latest_return < lower:
         is_anomaly = True
         status = "🚨 異常急落（ボラティリティ下抜け）"
-        
     return {
         "ticker": ticker,
         "date": latest_date.strftime('%Y-%m-%d'),
