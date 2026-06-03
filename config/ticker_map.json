@@ -1,0 +1,5834 @@
+{
+    "1332.T": {
+        "Ticker": "1332.T",
+        "LongName": "Nissui Corporation",
+        "ShortName": "NISSUI CORPORATION",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.nissui.co.jp"
+    },
+    "1605.T": {
+        "Ticker": "1605.T",
+        "LongName": "Inpex Corporation",
+        "ShortName": "INPEX CORPORATION",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas E&P",
+        "Website": "https://www.inpex.com"
+    },
+    "1721.T": {
+        "Ticker": "1721.T",
+        "LongName": "COMSYS Holdings Corporation",
+        "ShortName": "COMSYS HOLDINGS CORP",
+        "Sector": "Industrials",
+        "Industry": "Engineering & Construction",
+        "Website": "https://www.comsys-hd.co.jp"
+    },
+    "1801.T": {
+        "Ticker": "1801.T",
+        "LongName": "Taisei Corporation",
+        "ShortName": "TAISEI CORP",
+        "Sector": "Industrials",
+        "Industry": "Engineering & Construction",
+        "Website": "https://www.taisei.co.jp"
+    },
+    "1802.T": {
+        "Ticker": "1802.T",
+        "LongName": "Obayashi Corporation",
+        "ShortName": "OBAYASHI CORP",
+        "Sector": "Industrials",
+        "Industry": "Engineering & Construction",
+        "Website": "https://www.obayashi.co.jp"
+    },
+    "1803.T": {
+        "Ticker": "1803.T",
+        "LongName": "Shimizu Corporation",
+        "ShortName": "SHIMIZU CORP",
+        "Sector": "Industrials",
+        "Industry": "Engineering & Construction",
+        "Website": "https://www.shimz.co.jp"
+    },
+    "1808.T": {
+        "Ticker": "1808.T",
+        "LongName": "HASEKO Corporation",
+        "ShortName": "HASEKO CORPORATION",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Residential Construction",
+        "Website": "https://www.haseko.co.jp"
+    },
+    "1812.T": {
+        "Ticker": "1812.T",
+        "LongName": "Kajima Corporation",
+        "ShortName": "KAJIMA CORP",
+        "Sector": "Industrials",
+        "Industry": "Engineering & Construction",
+        "Website": "https://www.kajima.co.jp"
+    },
+    "1925.T": {
+        "Ticker": "1925.T",
+        "LongName": "Daiwa House Industry Co., Ltd.",
+        "ShortName": "DAIWA HOUSE INDUSTRY CO",
+        "Sector": "Real Estate",
+        "Industry": "Real Estate - Development",
+        "Website": "https://www.daiwahouse.co.jp"
+    },
+    "1928.T": {
+        "Ticker": "1928.T",
+        "LongName": "Sekisui House, Ltd.",
+        "ShortName": "SEKISUI HOUSE",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Residential Construction",
+        "Website": "https://www.sekisuihouse.co.jp"
+    },
+    "1963.T": {
+        "Ticker": "1963.T",
+        "LongName": "JGC Holdings Corporation",
+        "ShortName": "JGC HOLDINGS CORPORATION",
+        "Sector": "Industrials",
+        "Industry": "Engineering & Construction",
+        "Website": "https://www.jgc.com"
+    },
+    "2002.T": {
+        "Ticker": "2002.T",
+        "LongName": "Nisshin Seifun Group Inc.",
+        "ShortName": "NISSHIN SEIFUN GROUP INC",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.nisshin.com"
+    },
+    "2269.T": {
+        "Ticker": "2269.T",
+        "LongName": "Meiji Holdings Co., Ltd.",
+        "ShortName": "MEIJI HOLDINGS CO LTD",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.meiji.com"
+    },
+    "2282.T": {
+        "Ticker": "2282.T",
+        "LongName": "NH Foods Ltd.",
+        "ShortName": "NH FOODS LTD",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.nipponham.co.jp"
+    },
+    "2413.T": {
+        "Ticker": "2413.T",
+        "LongName": "M3, Inc.",
+        "ShortName": "M3 INC",
+        "Sector": "Healthcare",
+        "Industry": "Health Information Services",
+        "Website": "https://corporate.m3.com"
+    },
+    "2432.T": {
+        "Ticker": "2432.T",
+        "LongName": "DeNA Co., Ltd.",
+        "ShortName": "DENA CO LTD",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://dena.com/intl"
+    },
+    "2501.T": {
+        "Ticker": "2501.T",
+        "LongName": "Sapporo Holdings Limited",
+        "ShortName": "SAPPORO HOLDINGS LIMITED",
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages - Brewers",
+        "Website": "https://www.sapporoholdings.jp"
+    },
+    "2502.T": {
+        "Ticker": "2502.T",
+        "LongName": "Asahi Group Holdings, Ltd.",
+        "ShortName": "ASAHI GROUP HLDGS",
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages - Brewers",
+        "Website": "https://www.asahigroup-holdings.com/en/"
+    },
+    "2503.T": {
+        "Ticker": "2503.T",
+        "LongName": "Kirin Holdings Company, Limited",
+        "ShortName": "KIRIN HOLDINGS COMPANY LIMITED",
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages - Brewers",
+        "Website": "https://www.kirinholdings.com/jp/"
+    },
+    "2768.T": {
+        "Ticker": "2768.T",
+        "LongName": "Sojitz Corporation",
+        "ShortName": "SOJITZ CORPORATION",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.sojitz.com"
+    },
+    "2801.T": {
+        "Ticker": "2801.T",
+        "LongName": "Kikkoman Corporation",
+        "ShortName": "KIKKOMAN CORP",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.kikkoman.com"
+    },
+    "2802.T": {
+        "Ticker": "2802.T",
+        "LongName": "Ajinomoto Co., Inc.",
+        "ShortName": "AJINOMOTO CO INC",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.ajinomoto.co.jp"
+    },
+    "285A.T": {
+        "Ticker": "285A.T",
+        "LongName": "285A.T",
+        "ShortName": "KIOXIA HOLDINGS CORPORATION",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.kioxia-holdings.com"
+    },
+    "2871.T": {
+        "Ticker": "2871.T",
+        "LongName": "Nichirei Corporation",
+        "ShortName": "NICHIREI CORP",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.nichirei.co.jp"
+    },
+    "2914.T": {
+        "Ticker": "2914.T",
+        "LongName": "Japan Tobacco Inc.",
+        "ShortName": "JAPAN TOBACCO INC",
+        "Sector": "Consumer Defensive",
+        "Industry": "Tobacco",
+        "Website": "https://www.jt.com"
+    },
+    "3086.T": {
+        "Ticker": "3086.T",
+        "LongName": "J. Front Retailing Co., Ltd.",
+        "ShortName": "J FRONT RETAILING CO LTD",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Department Stores",
+        "Website": "https://www.j-front-retailing.com"
+    },
+    "3092.T": {
+        "Ticker": "3092.T",
+        "LongName": "ZOZO, Inc.",
+        "ShortName": "ZOZO INC",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Internet Retail",
+        "Website": "https://corp.zozo.com"
+    },
+    "3099.T": {
+        "Ticker": "3099.T",
+        "LongName": "Isetan Mitsukoshi Holdings Ltd.",
+        "ShortName": "ISETAN MITSUKOSHI HOLDINGS LTD",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Department Stores",
+        "Website": "https://www.imhds.co.jp"
+    },
+    "3289.T": {
+        "Ticker": "3289.T",
+        "LongName": "Tokyu Fudosan Holdings Corporation",
+        "ShortName": "TOKYU FUDOSAN HOLDINGS CORPORAT",
+        "Sector": "Real Estate",
+        "Industry": "Real Estate - Diversified",
+        "Website": "https://www.tokyu-fudosan-hd.co.jp"
+    },
+    "3382.T": {
+        "Ticker": "3382.T",
+        "LongName": "Seven & i Holdings Co., Ltd.",
+        "ShortName": "SEVEN & I HOLDINGS CO LTD",
+        "Sector": "Consumer Defensive",
+        "Industry": "Grocery Stores",
+        "Website": "https://www.7andi.com"
+    },
+    "3401.T": {
+        "Ticker": "3401.T",
+        "LongName": "Teijin Limited",
+        "ShortName": "TEIJIN LTD",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.teijin.com"
+    },
+    "3402.T": {
+        "Ticker": "3402.T",
+        "LongName": "Toray Industries, Inc.",
+        "ShortName": "TORAY INDUSTRIES INC",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Textile Manufacturing",
+        "Website": "https://www.toray.co.jp"
+    },
+    "3405.T": {
+        "Ticker": "3405.T",
+        "LongName": "Kuraray Co., Ltd.",
+        "ShortName": "KURARAY CO",
+        "Sector": "Basic Materials",
+        "Industry": "Chemicals",
+        "Website": "https://www.kuraray.com"
+    },
+    "3407.T": {
+        "Ticker": "3407.T",
+        "LongName": "Asahi Kasei Corporation",
+        "ShortName": "ASAHI KASEI CORP",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.asahi-kasei.com"
+    },
+    "3436.T": {
+        "Ticker": "3436.T",
+        "LongName": "Sumco Corporation",
+        "ShortName": "SUMCO CORPORATION",
+        "Sector": "Technology",
+        "Industry": "Semiconductor Equipment & Materials",
+        "Website": "https://www.sumcosi.com"
+    },
+    "3659.T": {
+        "Ticker": "3659.T",
+        "LongName": "NEXON Co., Ltd.",
+        "ShortName": "NEXON CO LTD",
+        "Sector": "Communication Services",
+        "Industry": "Electronic Gaming & Multimedia",
+        "Website": "https://www.nexon.co.jp"
+    },
+    "3697.T": {
+        "Ticker": "3697.T",
+        "LongName": "SHIFT Inc.",
+        "ShortName": "SHIFT INC",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.shiftinc.jp"
+    },
+    "3861.T": {
+        "Ticker": "3861.T",
+        "LongName": "Oji Holdings Corporation",
+        "ShortName": "OJI HOLDINGS CORP",
+        "Sector": "Basic Materials",
+        "Industry": "Paper & Paper Products",
+        "Website": "https://www.ojiholdings.co.jp"
+    },
+    "4004.T": {
+        "Ticker": "4004.T",
+        "LongName": "Resonac Holdings Corporation",
+        "ShortName": "RESONAC HOLDINGS CORPORATION",
+        "Sector": "Basic Materials",
+        "Industry": "Chemicals",
+        "Website": "https://www.resonac.com"
+    },
+    "4005.T": {
+        "Ticker": "4005.T",
+        "LongName": "Sumitomo Chemical Company, Limited",
+        "ShortName": "SUMITOMO CHEMICAL COMPANY",
+        "Sector": "Basic Materials",
+        "Industry": "Chemicals",
+        "Website": "https://www.sumitomo-chem.co.jp"
+    },
+    "4021.T": {
+        "Ticker": "4021.T",
+        "LongName": "Nissan Chemical Corporation",
+        "ShortName": "NISSAN CHEMICAL CORPORATION",
+        "Sector": "Basic Materials",
+        "Industry": "Chemicals",
+        "Website": "https://www.nissanchem.co.jp"
+    },
+    "4042.T": {
+        "Ticker": "4042.T",
+        "LongName": "Tosoh Corporation",
+        "ShortName": "TOSOH CORP",
+        "Sector": "Basic Materials",
+        "Industry": "Chemicals",
+        "Website": "https://www.tosoh.com"
+    },
+    "4043.T": {
+        "Ticker": "4043.T",
+        "LongName": "Tokuyama Corporation",
+        "ShortName": "TOKUYAMA CORP",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.tokuyama.co.jp"
+    },
+    "4061.T": {
+        "Ticker": "4061.T",
+        "LongName": "Denka Company Limited",
+        "ShortName": "DENKA COMPANY LIMITED",
+        "Sector": "Basic Materials",
+        "Industry": "Chemicals",
+        "Website": "https://www.denka.co.jp"
+    },
+    "4062.T": {
+        "Ticker": "4062.T",
+        "LongName": "Ibiden Co.,Ltd.",
+        "ShortName": "IBIDEN CO LTD",
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "Website": "https://www.ibiden.com"
+    },
+    "4063.T": {
+        "Ticker": "4063.T",
+        "LongName": "Shin-Etsu Chemical Co., Ltd.",
+        "ShortName": "SHIN-ETSU CHEMICAL CO",
+        "Sector": "Basic Materials",
+        "Industry": "Chemicals",
+        "Website": "https://www.shinetsu.co.jp"
+    },
+    "4151.T": {
+        "Ticker": "4151.T",
+        "LongName": "Kyowa Kirin Co., Ltd.",
+        "ShortName": "KYOWA KIRIN CO LTD",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - Specialty & Generic",
+        "Website": "https://www.kyowakirin.com"
+    },
+    "4183.T": {
+        "Ticker": "4183.T",
+        "LongName": "Mitsui Chemicals, Inc.",
+        "ShortName": "MITSUI CHEMICALS INC",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://jp.mitsuichemicals.com/en"
+    },
+    "4188.T": {
+        "Ticker": "4188.T",
+        "LongName": "Mitsubishi Chemical Group Corporation",
+        "ShortName": "MITSUBISHI CHEMICAL GROUP CORP",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.mcgc.com"
+    },
+    "4208.T": {
+        "Ticker": "4208.T",
+        "LongName": "UBE Corporation",
+        "ShortName": "UBE CORPORATION",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.ube.com"
+    },
+    "4307.T": {
+        "Ticker": "4307.T",
+        "LongName": "Nomura Research Institute, Ltd.",
+        "ShortName": "NOMURA RESEARCH INSTITUTE",
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "Website": "https://www.nri.com"
+    },
+    "4324.T": {
+        "Ticker": "4324.T",
+        "LongName": "Dentsu Group Inc.",
+        "ShortName": "DENTSU GROUP INC",
+        "Sector": "Communication Services",
+        "Industry": "Advertising Agencies",
+        "Website": "https://www.group.dentsu.com"
+    },
+    "4385.T": {
+        "Ticker": "4385.T",
+        "LongName": "Mercari, Inc.",
+        "ShortName": "MERCARI INC",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Internet Retail",
+        "Website": "https://www.mercari.com"
+    },
+    "4452.T": {
+        "Ticker": "4452.T",
+        "LongName": "Kao Corporation",
+        "ShortName": "KAO CORP",
+        "Sector": "Consumer Defensive",
+        "Industry": "Household & Personal Products",
+        "Website": "https://www.kao.com/jp"
+    },
+    "4502.T": {
+        "Ticker": "4502.T",
+        "LongName": "Takeda Pharmaceutical Company Limited",
+        "ShortName": "TAKEDA PHARMACEUTICAL CO LTD",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - Specialty & Generic",
+        "Website": "https://www.takeda.com"
+    },
+    "4503.T": {
+        "Ticker": "4503.T",
+        "LongName": "Astellas Pharma Inc.",
+        "ShortName": "ASTELLAS PHARMA",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - General",
+        "Website": "https://www.astellas.com"
+    },
+    "4506.T": {
+        "Ticker": "4506.T",
+        "LongName": "Sumitomo Pharma Co., Ltd.",
+        "ShortName": "SUMITOMO PHARMA CO LTD",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - Specialty & Generic",
+        "Website": "https://www.sumitomo-pharma.com"
+    },
+    "4507.T": {
+        "Ticker": "4507.T",
+        "LongName": "Shionogi & Co., Ltd.",
+        "ShortName": "SHIONOGI & CO",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - Specialty & Generic",
+        "Website": "https://www.shionogi.com"
+    },
+    "4519.T": {
+        "Ticker": "4519.T",
+        "LongName": "Chugai Pharmaceutical Co., Ltd.",
+        "ShortName": "CHUGAI PHARMACEUTICAL CO",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - General",
+        "Website": "https://www.chugai-pharm.co.jp"
+    },
+    "4523.T": {
+        "Ticker": "4523.T",
+        "LongName": "Eisai Co., Ltd.",
+        "ShortName": "EISAI CO LTD",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - Specialty & Generic",
+        "Website": "https://www.eisai.co.jp"
+    },
+    "4543.T": {
+        "Ticker": "4543.T",
+        "LongName": "Terumo Corporation",
+        "ShortName": "TERUMO CORP",
+        "Sector": "Healthcare",
+        "Industry": "Medical Instruments & Supplies",
+        "Website": "https://www.terumo.com"
+    },
+    "4568.T": {
+        "Ticker": "4568.T",
+        "LongName": "Daiichi Sankyo Company, Limited",
+        "ShortName": "DAIICHI SANKYO COMPANY LIMITED",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - General",
+        "Website": "https://www.daiichisankyo.com"
+    },
+    "4578.T": {
+        "Ticker": "4578.T",
+        "LongName": "Otsuka Holdings Co., Ltd.",
+        "ShortName": "OTSUKA HLDGS CO LTD",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - General",
+        "Website": "https://www.otsuka.com"
+    },
+    "4661.T": {
+        "Ticker": "4661.T",
+        "LongName": "Oriental Land Co., Ltd.",
+        "ShortName": "ORIENTAL LAND CO",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Leisure",
+        "Website": "https://www.olc.co.jp"
+    },
+    "4689.T": {
+        "Ticker": "4689.T",
+        "LongName": "LY Corporation",
+        "ShortName": "LY CORPORATION",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Internet Retail",
+        "Website": "https://www.lycorp.co.jp/ja"
+    },
+    "4704.T": {
+        "Ticker": "4704.T",
+        "LongName": "Trend Micro Incorporated",
+        "ShortName": "TREND MICRO INC",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.trendmicro.com"
+    },
+    "4751.T": {
+        "Ticker": "4751.T",
+        "LongName": "CyberAgent, Inc.",
+        "ShortName": "CYBER AGENT",
+        "Sector": "Communication Services",
+        "Industry": "Advertising Agencies",
+        "Website": "https://www.cyberagent.co.jp"
+    },
+    "4755.T": {
+        "Ticker": "4755.T",
+        "LongName": "Rakuten Group, Inc.",
+        "ShortName": "RAKUTEN GROUP INC",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Internet Retail",
+        "Website": "https://global.rakuten.com/corp"
+    },
+    "4901.T": {
+        "Ticker": "4901.T",
+        "LongName": "FUJIFILM Holdings Corporation",
+        "ShortName": "FUJIFILM HOLDINGS CORPORATION",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://holdings.fujifilm.com"
+    },
+    "4902.T": {
+        "Ticker": "4902.T",
+        "LongName": "Konica Minolta, Inc.",
+        "ShortName": "KONICA MINOLTA INC",
+        "Sector": "Industrials",
+        "Industry": "Business Equipment & Supplies",
+        "Website": "https://www.konicaminolta.com"
+    },
+    "4911.T": {
+        "Ticker": "4911.T",
+        "LongName": "Shiseido Company, Limited",
+        "ShortName": "SHISEIDO COMPANY LIMITED",
+        "Sector": "Consumer Defensive",
+        "Industry": "Household & Personal Products",
+        "Website": "https://corp.shiseido.com"
+    },
+    "5019.T": {
+        "Ticker": "5019.T",
+        "LongName": "Idemitsu Kosan Co.,Ltd.",
+        "ShortName": "IDEMITSU KOSAN CO.LTD",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Refining & Marketing",
+        "Website": "https://www.idemitsu.com"
+    },
+    "5020.T": {
+        "Ticker": "5020.T",
+        "LongName": "ENEOS Holdings, Inc.",
+        "ShortName": "ENEOS HOLDINGS INC",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Refining & Marketing",
+        "Website": "https://www.hd.eneos.co.jp"
+    },
+    "5101.T": {
+        "Ticker": "5101.T",
+        "LongName": "The Yokohama Rubber Company, Limited",
+        "ShortName": "YOKOHAMA RUBBER CO",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Parts",
+        "Website": "https://www.y-yokohama.com"
+    },
+    "5108.T": {
+        "Ticker": "5108.T",
+        "LongName": "Bridgestone Corporation",
+        "ShortName": "BRIDGESTONE CORP",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Parts",
+        "Website": "https://www.bridgestone.co.jp"
+    },
+    "5201.T": {
+        "Ticker": "5201.T",
+        "LongName": "AGC Inc.",
+        "ShortName": "AGC INC",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.agc.com"
+    },
+    "5214.T": {
+        "Ticker": "5214.T",
+        "LongName": "Nippon Electric Glass Co., Ltd.",
+        "ShortName": "NIPPON ELECTRIC GLASS",
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "Website": "https://www.neg.co.jp"
+    },
+    "5233.T": {
+        "Ticker": "5233.T",
+        "LongName": "Taiheiyo Cement Corporation",
+        "ShortName": "TAIHEIYO CEMENT CORP",
+        "Sector": "Basic Materials",
+        "Industry": "Building Materials",
+        "Website": "https://www.taiheiyo-cement.co.jp"
+    },
+    "5301.T": {
+        "Ticker": "5301.T",
+        "LongName": "Tokai Carbon Co., Ltd.",
+        "ShortName": "TOKAI CARBON CO",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.tokaicarbon.co.jp"
+    },
+    "5332.T": {
+        "Ticker": "5332.T",
+        "LongName": "TOTO LTD.",
+        "ShortName": "TOTO LTD",
+        "Sector": "Industrials",
+        "Industry": "Building Products & Equipment",
+        "Website": "https://jp.toto.com"
+    },
+    "5333.T": {
+        "Ticker": "5333.T",
+        "LongName": "NGK Corporation",
+        "ShortName": "NGK CORP",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.ngk.co.jp"
+    },
+    "5401.T": {
+        "Ticker": "5401.T",
+        "LongName": "Nippon Steel Corporation",
+        "ShortName": "NIPPON STEEL CORPORATION",
+        "Sector": "Basic Materials",
+        "Industry": "Steel",
+        "Website": "https://www.nipponsteel.com"
+    },
+    "5406.T": {
+        "Ticker": "5406.T",
+        "LongName": "Kobe Steel, Ltd.",
+        "ShortName": "KOBE STEEL",
+        "Sector": "Basic Materials",
+        "Industry": "Steel",
+        "Website": "https://www.kobelco.co.jp"
+    },
+    "5411.T": {
+        "Ticker": "5411.T",
+        "LongName": "JFE Holdings, Inc.",
+        "ShortName": "JFE HOLDINGS INC",
+        "Sector": "Basic Materials",
+        "Industry": "Steel",
+        "Website": "https://www.jfe-holdings.co.jp"
+    },
+    "543A.T": {
+        "Ticker": "543A.T",
+        "LongName": "ARCHION Corporation",
+        "ShortName": "ARCHION CORPORATION",
+        "Sector": "Industrials",
+        "Industry": "Farm & Heavy Construction Machinery",
+        "Website": "https://archion.co.jp"
+    },
+    "5631.T": {
+        "Ticker": "5631.T",
+        "LongName": "The Japan Steel Works, Ltd.",
+        "ShortName": "JAPAN STEEL WORKS",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.jsw.co.jp"
+    },
+    "5706.T": {
+        "Ticker": "5706.T",
+        "LongName": "Mitsui Kinzoku Company, Limited",
+        "ShortName": "MITSUI KINZOKU CO LTD",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.mitsui-kinzoku.com"
+    },
+    "5711.T": {
+        "Ticker": "5711.T",
+        "LongName": "Mitsubishi Materials Corporation",
+        "ShortName": "MITSUBISHI MATERIALS CORP",
+        "Sector": "Basic Materials",
+        "Industry": "Other Industrial Metals & Mining",
+        "Website": "https://www.mmc.co.jp"
+    },
+    "5713.T": {
+        "Ticker": "5713.T",
+        "LongName": "Sumitomo Metal Mining Co., Ltd.",
+        "ShortName": "SUMITOMO METAL MINING CO",
+        "Sector": "Basic Materials",
+        "Industry": "Other Industrial Metals & Mining",
+        "Website": "https://www.smm.co.jp"
+    },
+    "5714.T": {
+        "Ticker": "5714.T",
+        "LongName": "Dowa Holdings Co., Ltd.",
+        "ShortName": "DOWA HOLDINGS",
+        "Sector": "Basic Materials",
+        "Industry": "Other Industrial Metals & Mining",
+        "Website": "https://hd.dowa.co.jp"
+    },
+    "5801.T": {
+        "Ticker": "5801.T",
+        "LongName": "Furukawa Electric Co., Ltd.",
+        "ShortName": "FURUKAWA ELECTRIC CO",
+        "Sector": "Industrials",
+        "Industry": "Electrical Equipment & Parts",
+        "Website": "https://www.furukawa.co.jp"
+    },
+    "5802.T": {
+        "Ticker": "5802.T",
+        "LongName": "Sumitomo Electric Industries, Ltd.",
+        "ShortName": "SUMITOMO ELECTRIC INDUSTRIES",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Parts",
+        "Website": "https://sumitomoelectric.com"
+    },
+    "5803.T": {
+        "Ticker": "5803.T",
+        "LongName": "Fujikura Ltd.",
+        "ShortName": "FUJIKURA",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.fujikura.co.jp"
+    },
+    "5831.T": {
+        "Ticker": "5831.T",
+        "LongName": "Shizuoka Financial Group,Inc.",
+        "ShortName": "SHIZUOKA FINANCIAL GROUP INC.",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.shizuoka-fg.co.jp/english/"
+    },
+    "6098.T": {
+        "Ticker": "6098.T",
+        "LongName": "Recruit Holdings Co., Ltd.",
+        "ShortName": "RECRUIT HOLDINGS CO LTD",
+        "Sector": "Communication Services",
+        "Industry": "Internet Content & Information",
+        "Website": "https://recruit-holdings.com/en"
+    },
+    "6103.T": {
+        "Ticker": "6103.T",
+        "LongName": "Okuma Corporation",
+        "ShortName": "OKUMA CORPORATION",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.okuma.co.jp"
+    },
+    "6113.T": {
+        "Ticker": "6113.T",
+        "LongName": "Amada Co., Ltd.",
+        "ShortName": "AMADA CO LTD",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.amada.co.jp"
+    },
+    "6146.T": {
+        "Ticker": "6146.T",
+        "LongName": "Disco Corporation",
+        "ShortName": "DISCO CORPORATION",
+        "Sector": "Technology",
+        "Industry": "Semiconductor Equipment & Materials",
+        "Website": "https://www.disco.co.jp"
+    },
+    "6178.T": {
+        "Ticker": "6178.T",
+        "LongName": "Japan Post Holdings Co., Ltd.",
+        "ShortName": "JAPAN POST HLDGS CO LTD",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.japanpost.jp"
+    },
+    "6273.T": {
+        "Ticker": "6273.T",
+        "LongName": "SMC Corporation",
+        "ShortName": "SMC CORP",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.smcworld.com"
+    },
+    "6301.T": {
+        "Ticker": "6301.T",
+        "LongName": "Komatsu Ltd.",
+        "ShortName": "KOMATSU",
+        "Sector": "Industrials",
+        "Industry": "Farm & Heavy Construction Machinery",
+        "Website": "https://www.komatsu.jp"
+    },
+    "6302.T": {
+        "Ticker": "6302.T",
+        "LongName": "Sumitomo Heavy Industries, Ltd.",
+        "ShortName": "SUMITOMO HEAVY INDUSTRIES",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.shi.co.jp"
+    },
+    "6305.T": {
+        "Ticker": "6305.T",
+        "LongName": "Hitachi Construction Machinery Co., Ltd.",
+        "ShortName": "HITACHI CONSTRUCTION MACHINERY",
+        "Sector": "Industrials",
+        "Industry": "Farm & Heavy Construction Machinery",
+        "Website": "https://www.hitachicm.com"
+    },
+    "6326.T": {
+        "Ticker": "6326.T",
+        "LongName": "Kubota Corporation",
+        "ShortName": "KUBOTA CORP",
+        "Sector": "Industrials",
+        "Industry": "Farm & Heavy Construction Machinery",
+        "Website": "https://www.kubota.co.jp"
+    },
+    "6361.T": {
+        "Ticker": "6361.T",
+        "LongName": "Ebara Corporation",
+        "ShortName": "EBARA CORP",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.ebara.co.jp"
+    },
+    "6367.T": {
+        "Ticker": "6367.T",
+        "LongName": "Daikin Industries,Ltd.",
+        "ShortName": "DAIKIN INDUSTRIES",
+        "Sector": "Industrials",
+        "Industry": "Building Products & Equipment",
+        "Website": "https://www.daikin.com"
+    },
+    "6471.T": {
+        "Ticker": "6471.T",
+        "LongName": "NSK Ltd.",
+        "ShortName": "NSK",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Parts",
+        "Website": "https://www.nsk.com/index.html"
+    },
+    "6472.T": {
+        "Ticker": "6472.T",
+        "LongName": "NTN Corporation",
+        "ShortName": "NTN CORP",
+        "Sector": "Industrials",
+        "Industry": "Tools & Accessories",
+        "Website": "https://www.ntn.co.jp"
+    },
+    "6473.T": {
+        "Ticker": "6473.T",
+        "LongName": "JTEKT Corporation",
+        "ShortName": "JTEKT CORPORATION",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Parts",
+        "Website": "https://www.jtekt.co.jp"
+    },
+    "6479.T": {
+        "Ticker": "6479.T",
+        "LongName": "MINEBEA MITSUMI Inc.",
+        "ShortName": "MINEBEA MITSUMI INC",
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "Website": "https://www.minebeamitsumi.com"
+    },
+    "6501.T": {
+        "Ticker": "6501.T",
+        "LongName": "Hitachi, Ltd.",
+        "ShortName": "HITACHI",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.hitachi.com/ja-jp"
+    },
+    "6503.T": {
+        "Ticker": "6503.T",
+        "LongName": "Mitsubishi Electric Corporation",
+        "ShortName": "MITSUBISHI ELECTRIC CORP",
+        "Sector": "Industrials",
+        "Industry": "Electrical Equipment & Parts",
+        "Website": "https://www.mitsubishielectric.com"
+    },
+    "6504.T": {
+        "Ticker": "6504.T",
+        "LongName": "Fuji Electric Co., Ltd.",
+        "ShortName": "FUJI ELECTRIC CO. LTD.",
+        "Sector": "Industrials",
+        "Industry": "Electrical Equipment & Parts",
+        "Website": "https://www.fujielectric.com"
+    },
+    "6506.T": {
+        "Ticker": "6506.T",
+        "LongName": "YASKAWA Electric Corporation",
+        "ShortName": "YASKAWA ELECTRIC CORP",
+        "Sector": "Industrials",
+        "Industry": "Electrical Equipment & Parts",
+        "Website": "https://www.yaskawa.co.jp"
+    },
+    "6526.T": {
+        "Ticker": "6526.T",
+        "LongName": "Socionext Inc.",
+        "ShortName": "SOCIONEXT INC",
+        "Sector": "Industrials",
+        "Industry": "Electrical Equipment & Parts",
+        "Website": "https://www.socionext.com"
+    },
+    "6532.T": {
+        "Ticker": "6532.T",
+        "LongName": "Baycurrent, Inc.",
+        "ShortName": "BAYCURRENT INC",
+        "Sector": "Industrials",
+        "Industry": "Consulting Services",
+        "Website": "https://www.baycurrent.co.jp"
+    },
+    "6645.T": {
+        "Ticker": "6645.T",
+        "LongName": "OMRON Corporation",
+        "ShortName": "OMRON CORP",
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "Website": "https://www.omron.com"
+    },
+    "6701.T": {
+        "Ticker": "6701.T",
+        "LongName": "NEC Corporation",
+        "ShortName": "NEC CORP",
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "Website": "https://www.nec.com"
+    },
+    "6702.T": {
+        "Ticker": "6702.T",
+        "LongName": "Fujitsu Limited",
+        "ShortName": "FUJITSU",
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "Website": "https://global.fujitsu/en-global"
+    },
+    "6723.T": {
+        "Ticker": "6723.T",
+        "LongName": "Renesas Electronics Corporation",
+        "ShortName": "RENESAS ELECTRONICS CORP",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.renesas.com"
+    },
+    "6724.T": {
+        "Ticker": "6724.T",
+        "LongName": "Seiko Epson Corporation",
+        "ShortName": "SEIKO EPSON CORP",
+        "Sector": "Technology",
+        "Industry": "Computer Hardware",
+        "Website": "https://www.epson.jp"
+    },
+    "6752.T": {
+        "Ticker": "6752.T",
+        "LongName": "Panasonic Holdings Corporation",
+        "ShortName": "PANASONIC HOLDINGS CORP",
+        "Sector": "Technology",
+        "Industry": "Consumer Electronics",
+        "Website": "https://holdings.panasonic"
+    },
+    "6753.T": {
+        "Ticker": "6753.T",
+        "LongName": "Sharp Corporation",
+        "ShortName": "SHARP CORP",
+        "Sector": "Technology",
+        "Industry": "Consumer Electronics",
+        "Website": "https://corporate.jp.sharp"
+    },
+    "6758.T": {
+        "Ticker": "6758.T",
+        "LongName": "Sony Group Corporation",
+        "ShortName": "SONY GROUP CORPORATION",
+        "Sector": "Technology",
+        "Industry": "Consumer Electronics",
+        "Website": "https://www.sony.com"
+    },
+    "6762.T": {
+        "Ticker": "6762.T",
+        "LongName": "TDK Corporation",
+        "ShortName": "TDK CORP",
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "Website": "https://www.tdk.com/en/index.html"
+    },
+    "6770.T": {
+        "Ticker": "6770.T",
+        "LongName": "Alps Alpine Co., Ltd.",
+        "ShortName": "ALPS ALPINE CO LTD",
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "Website": "https://www.alpsalpine.com"
+    },
+    "6841.T": {
+        "Ticker": "6841.T",
+        "LongName": "Yokogawa Electric Corporation",
+        "ShortName": "YOKOGAWA ELECTRIC CORP",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.yokogawa.com"
+    },
+    "6857.T": {
+        "Ticker": "6857.T",
+        "LongName": "Advantest Corporation",
+        "ShortName": "ADVANTEST CORP",
+        "Sector": "Technology",
+        "Industry": "Semiconductor Equipment & Materials",
+        "Website": "https://www.advantest.com"
+    },
+    "6861.T": {
+        "Ticker": "6861.T",
+        "LongName": "Keyence Corporation",
+        "ShortName": "KEYENCE CORP",
+        "Sector": "Technology",
+        "Industry": "Scientific & Technical Instruments",
+        "Website": "https://www.keyence.com"
+    },
+    "6902.T": {
+        "Ticker": "6902.T",
+        "LongName": "DENSO Corporation",
+        "ShortName": "DENSO CORP",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Parts",
+        "Website": "https://www.denso.com/global/en/"
+    },
+    "6920.T": {
+        "Ticker": "6920.T",
+        "LongName": "Lasertec Corporation",
+        "ShortName": "LASERTEC CORP",
+        "Sector": "Technology",
+        "Industry": "Semiconductor Equipment & Materials",
+        "Website": "https://www.lasertec.co.jp"
+    },
+    "6954.T": {
+        "Ticker": "6954.T",
+        "LongName": "Fanuc Corporation",
+        "ShortName": "FANUC CORPORATION",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.fanuc.co.jp"
+    },
+    "6963.T": {
+        "Ticker": "6963.T",
+        "LongName": "ROHM Co., Ltd.",
+        "ShortName": "ROHM CO LTD",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.rohm.com"
+    },
+    "6971.T": {
+        "Ticker": "6971.T",
+        "LongName": "Kyocera Corporation",
+        "ShortName": "KYOCERA CORP",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://global.kyocera.com"
+    },
+    "6976.T": {
+        "Ticker": "6976.T",
+        "LongName": "Taiyo Yuden Co., Ltd.",
+        "ShortName": "TAIYO YUDEN CO LTD",
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "Website": "https://www.yuden.co.jp"
+    },
+    "6981.T": {
+        "Ticker": "6981.T",
+        "LongName": "Murata Manufacturing Co., Ltd.",
+        "ShortName": "MURATA MANUFACTURING CO",
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "Website": "https://www.murata.com"
+    },
+    "6988.T": {
+        "Ticker": "6988.T",
+        "LongName": "Nitto Denko Corporation",
+        "ShortName": "NITTO DENKO CORP",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.nitto.com/jp/en"
+    },
+    "7004.T": {
+        "Ticker": "7004.T",
+        "LongName": "Kanadevia Corporation",
+        "ShortName": "KANADEVIA CORPORATION",
+        "Sector": "Industrials",
+        "Industry": "Pollution & Treatment Controls",
+        "Website": "https://www.kanadevia.com"
+    },
+    "7011.T": {
+        "Ticker": "7011.T",
+        "LongName": "Mitsubishi Heavy Industries, Ltd.",
+        "ShortName": "MITSUBISHI HEAVY INDUSTRIES",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.mhi.com"
+    },
+    "7012.T": {
+        "Ticker": "7012.T",
+        "LongName": "Kawasaki Heavy Industries, Ltd.",
+        "ShortName": "KAWASAKI HEAVY INDUSTRIES",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://global.kawasaki.com"
+    },
+    "7013.T": {
+        "Ticker": "7013.T",
+        "LongName": "IHI Corporation",
+        "ShortName": "IHI CORPORATION",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.ihi.co.jp"
+    },
+    "7186.T": {
+        "Ticker": "7186.T",
+        "LongName": "Yokohama Financial Group, Inc.",
+        "ShortName": "YOKOHAMA FINANCIAL GROUP INC",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.yokohamafg.co.jp"
+    },
+    "7201.T": {
+        "Ticker": "7201.T",
+        "LongName": "Nissan Motor Co., Ltd.",
+        "ShortName": "NISSAN MOTOR CO",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Manufacturers",
+        "Website": "https://www.nissan-global.com"
+    },
+    "7202.T": {
+        "Ticker": "7202.T",
+        "LongName": "Isuzu Motors Limited",
+        "ShortName": "ISUZU MOTORS",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Manufacturers",
+        "Website": "https://www.isuzu.co.jp"
+    },
+    "7203.T": {
+        "Ticker": "7203.T",
+        "LongName": "Toyota Motor Corporation",
+        "ShortName": "TOYOTA MOTOR CORP",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Manufacturers",
+        "Website": "https://global.toyota/en"
+    },
+    "7211.T": {
+        "Ticker": "7211.T",
+        "LongName": "Mitsubishi Motors Corporation",
+        "ShortName": "MITSUBISHI MOTOR CORP",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Manufacturers",
+        "Website": "https://www.mitsubishi-motors.com/en/index.html"
+    },
+    "7261.T": {
+        "Ticker": "7261.T",
+        "LongName": "Mazda Motor Corporation",
+        "ShortName": "MAZDA MOTOR CORP",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Manufacturers",
+        "Website": "https://www.mazda.com"
+    },
+    "7267.T": {
+        "Ticker": "7267.T",
+        "LongName": "Honda Motor Co., Ltd.",
+        "ShortName": "HONDA MOTOR CO",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Manufacturers",
+        "Website": "https://www.honda.co.jp"
+    },
+    "7269.T": {
+        "Ticker": "7269.T",
+        "LongName": "Suzuki Motor Corporation",
+        "ShortName": "SUZUKI MOTOR CORP",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Manufacturers",
+        "Website": "https://www.globalsuzuki.com"
+    },
+    "7270.T": {
+        "Ticker": "7270.T",
+        "LongName": "Subaru Corporation",
+        "ShortName": "SUBARU CORPORATION",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Manufacturers",
+        "Website": "https://www.subaru.co.jp"
+    },
+    "7272.T": {
+        "Ticker": "7272.T",
+        "LongName": "Yamaha Motor Co., Ltd.",
+        "ShortName": "YAMAHA MOTOR CO",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Manufacturers",
+        "Website": "https://global.yamaha-motor.com"
+    },
+    "7453.T": {
+        "Ticker": "7453.T",
+        "LongName": "Ryohin Keikaku Co., Ltd.",
+        "ShortName": "RYOHIN KEIKAKU CO",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Department Stores",
+        "Website": "https://ryohin-keikaku.jp"
+    },
+    "7532.T": {
+        "Ticker": "7532.T",
+        "LongName": "Pan Pacific International Holdings Corporation",
+        "ShortName": "PAN PACIFIC INTL HLDGS CORP",
+        "Sector": "Consumer Defensive",
+        "Industry": "Discount Stores",
+        "Website": "https://www.ppih.co.jp"
+    },
+    "7731.T": {
+        "Ticker": "7731.T",
+        "LongName": "Nikon Corporation",
+        "ShortName": "NIKON CORP",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Leisure",
+        "Website": "https://www.nikon.com"
+    },
+    "7733.T": {
+        "Ticker": "7733.T",
+        "LongName": "Olympus Corporation",
+        "ShortName": "OLYMPUS CORPORATION",
+        "Sector": "Healthcare",
+        "Industry": "Medical Devices",
+        "Website": "https://www.olympus.co.jp"
+    },
+    "7735.T": {
+        "Ticker": "7735.T",
+        "LongName": "SCREEN Holdings Co., Ltd.",
+        "ShortName": "SCREEN HOLDINGS CO LTD",
+        "Sector": "Technology",
+        "Industry": "Semiconductor Equipment & Materials",
+        "Website": "https://www.screen.co.jp"
+    },
+    "7741.T": {
+        "Ticker": "7741.T",
+        "LongName": "HOYA Corporation",
+        "ShortName": "HOYA CORP",
+        "Sector": "Healthcare",
+        "Industry": "Medical Instruments & Supplies",
+        "Website": "https://www.hoya.com"
+    },
+    "7751.T": {
+        "Ticker": "7751.T",
+        "LongName": "Canon Inc.",
+        "ShortName": "CANON INC",
+        "Sector": "Technology",
+        "Industry": "Computer Hardware",
+        "Website": "https://global.canon"
+    },
+    "7752.T": {
+        "Ticker": "7752.T",
+        "LongName": "Ricoh Company, Ltd.",
+        "ShortName": "RICOH CO",
+        "Sector": "Industrials",
+        "Industry": "Business Equipment & Supplies",
+        "Website": "https://www.ricoh.com"
+    },
+    "7832.T": {
+        "Ticker": "7832.T",
+        "LongName": "BANDAI NAMCO Holdings Inc.",
+        "ShortName": "BANDAI NAMCO HOLDINGS INC",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Leisure",
+        "Website": "https://www.bandainamco.co.jp"
+    },
+    "7911.T": {
+        "Ticker": "7911.T",
+        "LongName": "TOPPAN Holdings Inc.",
+        "ShortName": "TOPPAN HOLDINGS INC",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.holdings.toppan.com"
+    },
+    "7912.T": {
+        "Ticker": "7912.T",
+        "LongName": "Dai Nippon Printing Co., Ltd.",
+        "ShortName": "DAI NIPPON PRINTING CO",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.dnp.co.jp"
+    },
+    "7951.T": {
+        "Ticker": "7951.T",
+        "LongName": "Yamaha Corporation",
+        "ShortName": "YAMAHA CORP",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Leisure",
+        "Website": "https://www.yamaha.com"
+    },
+    "7974.T": {
+        "Ticker": "7974.T",
+        "LongName": "Nintendo Co., Ltd.",
+        "ShortName": "NINTENDO CO LTD",
+        "Sector": "Communication Services",
+        "Industry": "Electronic Gaming & Multimedia",
+        "Website": "https://www.nintendo.co.jp"
+    },
+    "8001.T": {
+        "Ticker": "8001.T",
+        "LongName": "ITOCHU Corporation",
+        "ShortName": "ITOCHU CORP",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.itochu.co.jp"
+    },
+    "8002.T": {
+        "Ticker": "8002.T",
+        "LongName": "Marubeni Corporation",
+        "ShortName": "MARUBENI CORP",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.marubeni.com"
+    },
+    "8015.T": {
+        "Ticker": "8015.T",
+        "LongName": "Toyota Tsusho Corporation",
+        "ShortName": "TOYOTA TSUSHO CORP",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.toyota-tsusho.com"
+    },
+    "8031.T": {
+        "Ticker": "8031.T",
+        "LongName": "Mitsui & Co., Ltd.",
+        "ShortName": "MITSUI & CO",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.mitsui.com/jp/en/"
+    },
+    "8035.T": {
+        "Ticker": "8035.T",
+        "LongName": "Tokyo Electron Limited",
+        "ShortName": "TOKYO ELECTRON",
+        "Sector": "Technology",
+        "Industry": "Semiconductor Equipment & Materials",
+        "Website": "https://www.tel.com"
+    },
+    "8053.T": {
+        "Ticker": "8053.T",
+        "LongName": "Sumitomo Corporation",
+        "ShortName": "SUMITOMO CORP",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.sumitomocorp.com"
+    },
+    "8058.T": {
+        "Ticker": "8058.T",
+        "LongName": "Mitsubishi Corporation",
+        "ShortName": "MITSUBISHI CORP",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.mitsubishicorp.com"
+    },
+    "8233.T": {
+        "Ticker": "8233.T",
+        "LongName": "Takashimaya Company, Limited",
+        "ShortName": "TAKASHIMAYA CO",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Department Stores",
+        "Website": "https://www.takashimaya.co.jp"
+    },
+    "8252.T": {
+        "Ticker": "8252.T",
+        "LongName": "Marui Group Co., Ltd.",
+        "ShortName": "MARUI GROUP CO LTD",
+        "Sector": "Financial Services",
+        "Industry": "Credit Services",
+        "Website": "https://www.0101maruigroup.co.jp"
+    },
+    "8253.T": {
+        "Ticker": "8253.T",
+        "LongName": "Credit Saison Co., Ltd.",
+        "ShortName": "CREDIT SAISON CO",
+        "Sector": "Financial Services",
+        "Industry": "Credit Services",
+        "Website": "https://corporate.saisoncard.co.jp"
+    },
+    "8267.T": {
+        "Ticker": "8267.T",
+        "LongName": "Aeon Co., Ltd.",
+        "ShortName": "AEON CO LTD",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Department Stores",
+        "Website": "https://www.aeon.info"
+    },
+    "8304.T": {
+        "Ticker": "8304.T",
+        "LongName": "Aozora Bank, Ltd.",
+        "ShortName": "AOZORA BANK",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.aozorabank.co.jp"
+    },
+    "8306.T": {
+        "Ticker": "8306.T",
+        "LongName": "Mitsubishi UFJ Financial Group, Inc.",
+        "ShortName": "MITSUBISHI UFJ FINANCIAL GROUP ",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Diversified",
+        "Website": "https://www.mufg.jp"
+    },
+    "8308.T": {
+        "Ticker": "8308.T",
+        "LongName": "Resona Holdings, Inc.",
+        "ShortName": "RESONA HOLDINGS",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.resona-gr.co.jp"
+    },
+    "8309.T": {
+        "Ticker": "8309.T",
+        "LongName": "Sumitomo Mitsui Trust Group, Inc.",
+        "ShortName": "SUMITOMO MITSUI TRUST GP INC",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.smtg.jp"
+    },
+    "8316.T": {
+        "Ticker": "8316.T",
+        "LongName": "Sumitomo Mitsui Financial Group, Inc.",
+        "ShortName": "SUMITOMO MITSUI FINANCIAL GROUP",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Diversified",
+        "Website": "https://www.smfg.co.jp"
+    },
+    "8331.T": {
+        "Ticker": "8331.T",
+        "LongName": "The Chiba Bank, Ltd.",
+        "ShortName": "CHIBA BANK",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.chibabank.co.jp"
+    },
+    "8354.T": {
+        "Ticker": "8354.T",
+        "LongName": "Fukuoka Financial Group, Inc.",
+        "ShortName": "FUKUOKA FINANCIAL GROUP INC.",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.fukuoka-fg.com"
+    },
+    "8411.T": {
+        "Ticker": "8411.T",
+        "LongName": "Mizuho Financial Group, Inc.",
+        "ShortName": "MIZUHO FINANCIAL GROUP",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.mizuho-fg.co.jp"
+    },
+    "8591.T": {
+        "Ticker": "8591.T",
+        "LongName": "ORIX Corporation",
+        "ShortName": "ORIX CORPORATION",
+        "Sector": "Financial Services",
+        "Industry": "Financial Conglomerates",
+        "Website": "https://www.orix.co.jp"
+    },
+    "8601.T": {
+        "Ticker": "8601.T",
+        "LongName": "Daiwa Securities Group Inc.",
+        "ShortName": "DAIWA SECURITIES GROUP",
+        "Sector": "Financial Services",
+        "Industry": "Capital Markets",
+        "Website": "https://www.daiwa-grp.jp"
+    },
+    "8604.T": {
+        "Ticker": "8604.T",
+        "LongName": "Nomura Holdings, Inc.",
+        "ShortName": "NOMURA HOLDINGS INC.",
+        "Sector": "Financial Services",
+        "Industry": "Capital Markets",
+        "Website": "https://www.nomuraholdings.com"
+    },
+    "8630.T": {
+        "Ticker": "8630.T",
+        "LongName": "Sompo Holdings, Inc.",
+        "ShortName": "SOMPO HOLDINGS INC",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Property & Casualty",
+        "Website": "https://www.sompo-hd.com"
+    },
+    "8697.T": {
+        "Ticker": "8697.T",
+        "LongName": "Japan Exchange Group, Inc.",
+        "ShortName": "JAPAN EXCHANGE GROUP",
+        "Sector": "Financial Services",
+        "Industry": "Financial Data & Stock Exchanges",
+        "Website": "https://www.jpx.co.jp"
+    },
+    "8725.T": {
+        "Ticker": "8725.T",
+        "LongName": "MS&AD Insurance Group Holdings, Inc.",
+        "ShortName": "MS&AD INS GP HLDGS",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Property & Casualty",
+        "Website": "https://www.ms-ad-hd.com"
+    },
+    "8750.T": {
+        "Ticker": "8750.T",
+        "LongName": "Daiichi Life Group, Inc.",
+        "ShortName": "DAIICHI LIFE GROUP INC",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Life",
+        "Website": "https://www.daiichilife-group.com"
+    },
+    "8766.T": {
+        "Ticker": "8766.T",
+        "LongName": "Tokio Marine Holdings, Inc.",
+        "ShortName": "TOKIO MARINE HOLDINGS INC",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Property & Casualty",
+        "Website": "https://www.tokiomarinehd.com"
+    },
+    "8795.T": {
+        "Ticker": "8795.T",
+        "LongName": "T&D Holdings, Inc.",
+        "ShortName": "T&D HOLDINGS INC",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Life",
+        "Website": "https://www.td-holdings.co.jp"
+    },
+    "8801.T": {
+        "Ticker": "8801.T",
+        "LongName": "Mitsui Fudosan Co., Ltd.",
+        "ShortName": "MITSUI FUDOSAN",
+        "Sector": "Real Estate",
+        "Industry": "Real Estate - Diversified",
+        "Website": "https://www.mitsuifudosan.co.jp"
+    },
+    "8802.T": {
+        "Ticker": "8802.T",
+        "LongName": "Mitsubishi Estate Co., Ltd.",
+        "ShortName": "MITSUBISHI ESTATE CO",
+        "Sector": "Real Estate",
+        "Industry": "Real Estate - Diversified",
+        "Website": "https://www.mec.co.jp"
+    },
+    "8804.T": {
+        "Ticker": "8804.T",
+        "LongName": "Tokyo Tatemono Co., Ltd.",
+        "ShortName": "TOKYO TATEMONO CO",
+        "Sector": "Real Estate",
+        "Industry": "Real Estate Services",
+        "Website": "https://www.tatemono.com"
+    },
+    "8830.T": {
+        "Ticker": "8830.T",
+        "LongName": "Sumitomo Realty & Development Co., Ltd.",
+        "ShortName": "SUMITOMO REALTY & DEVELOPMENT C",
+        "Sector": "Real Estate",
+        "Industry": "Real Estate Services",
+        "Website": "https://www.sumitomo-rd.co.jp"
+    },
+    "9001.T": {
+        "Ticker": "9001.T",
+        "LongName": "Tobu Railway Co., Ltd.",
+        "ShortName": "TOBU RAILWAY CO",
+        "Sector": "Industrials",
+        "Industry": "Railroads",
+        "Website": "https://www.tobu.co.jp"
+    },
+    "9005.T": {
+        "Ticker": "9005.T",
+        "LongName": "Tokyu Corporation",
+        "ShortName": "TOKYU CORP",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Department Stores",
+        "Website": "https://www.tokyu.co.jp"
+    },
+    "9007.T": {
+        "Ticker": "9007.T",
+        "LongName": "Odakyu Electric Railway Co., Ltd.",
+        "ShortName": "ODAKYU ELECTRIC RAILWAY CO",
+        "Sector": "Industrials",
+        "Industry": "Railroads",
+        "Website": "https://www.odakyu.jp"
+    },
+    "9008.T": {
+        "Ticker": "9008.T",
+        "LongName": "Keio Corporation",
+        "ShortName": "KEIO CORPORATION",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.keio.co.jp"
+    },
+    "9009.T": {
+        "Ticker": "9009.T",
+        "LongName": "Keisei Electric Railway Co., Ltd.",
+        "ShortName": "KEISEI ELECTRIC RAILWAY CO",
+        "Sector": "Industrials",
+        "Industry": "Railroads",
+        "Website": "https://www.keisei.co.jp"
+    },
+    "9020.T": {
+        "Ticker": "9020.T",
+        "LongName": "East Japan Railway Company",
+        "ShortName": "EAST JAPAN RAILWAY CO",
+        "Sector": "Industrials",
+        "Industry": "Railroads",
+        "Website": "https://www.jreast.co.jp"
+    },
+    "9021.T": {
+        "Ticker": "9021.T",
+        "LongName": "West Japan Railway Company",
+        "ShortName": "WEST JAPAN RAILWAY CO",
+        "Sector": "Industrials",
+        "Industry": "Railroads",
+        "Website": "https://www.westjr.co.jp"
+    },
+    "9022.T": {
+        "Ticker": "9022.T",
+        "LongName": "Central Japan Railway Company",
+        "ShortName": "CENTRAL JAPAN RAILWAY CO",
+        "Sector": "Industrials",
+        "Industry": "Railroads",
+        "Website": "https://jr-central.co.jp"
+    },
+    "9064.T": {
+        "Ticker": "9064.T",
+        "LongName": "Yamato Holdings Co., Ltd.",
+        "ShortName": "YAMATO HOLDINGS CO LTD",
+        "Sector": "Industrials",
+        "Industry": "Trucking",
+        "Website": "https://www.yamato-hd.co.jp"
+    },
+    "9101.T": {
+        "Ticker": "9101.T",
+        "LongName": "Nippon Yusen Kabushiki Kaisha",
+        "ShortName": "NIPPON YUSEN KABUSHIKI KAISHA",
+        "Sector": "Industrials",
+        "Industry": "Marine Shipping",
+        "Website": "https://www.nyk.com"
+    },
+    "9104.T": {
+        "Ticker": "9104.T",
+        "LongName": "Mitsui O.S.K. Lines, Ltd.",
+        "ShortName": "MITSUI O.S.K. LINES LTD",
+        "Sector": "Industrials",
+        "Industry": "Marine Shipping",
+        "Website": "https://www.mol.co.jp"
+    },
+    "9107.T": {
+        "Ticker": "9107.T",
+        "LongName": "Kawasaki Kisen Kaisha, Ltd.",
+        "ShortName": "KAWASAKI KISEN KAISHA",
+        "Sector": "Industrials",
+        "Industry": "Marine Shipping",
+        "Website": "https://www.kline.co.jp"
+    },
+    "9147.T": {
+        "Ticker": "9147.T",
+        "LongName": "Nippon Express Holdings, Inc.",
+        "ShortName": "NIPPON EXPRESS HLDGS INC",
+        "Sector": "Industrials",
+        "Industry": "Integrated Freight & Logistics",
+        "Website": "https://www.nipponexpress-holdings.com"
+    },
+    "9201.T": {
+        "Ticker": "9201.T",
+        "LongName": "Japan Airlines Co., Ltd.",
+        "ShortName": "JAPAN AIRLINES CO LTD",
+        "Sector": "Industrials",
+        "Industry": "Airlines",
+        "Website": "https://www.jal.com/en"
+    },
+    "9202.T": {
+        "Ticker": "9202.T",
+        "LongName": "ANA Holdings Inc.",
+        "ShortName": "ANA HOLDINGS INC",
+        "Sector": "Industrials",
+        "Industry": "Airlines",
+        "Website": "https://www.ana.co.jp"
+    },
+    "9432.T": {
+        "Ticker": "9432.T",
+        "LongName": "NTT, Inc.",
+        "ShortName": "NTT INC",
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "Website": "https://group.ntt"
+    },
+    "9433.T": {
+        "Ticker": "9433.T",
+        "LongName": "KDDI Corporation",
+        "ShortName": "KDDI CORPORATION",
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "Website": "https://www.kddi.com"
+    },
+    "9434.T": {
+        "Ticker": "9434.T",
+        "LongName": "SoftBank Corp.",
+        "ShortName": "SOFTBANK CORP.",
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "Website": "https://www.softbank.jp"
+    },
+    "9501.T": {
+        "Ticker": "9501.T",
+        "LongName": "Tokyo Electric Power Company Holdings, Incorporated",
+        "ShortName": "TOKYO ELEC POWER CO HLDGS INC",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Renewable",
+        "Website": "https://www.tepco.co.jp"
+    },
+    "9502.T": {
+        "Ticker": "9502.T",
+        "LongName": "Chubu Electric Power Company, Incorporated",
+        "ShortName": "CHUBU ELECTRIC POWER CO INC",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Diversified",
+        "Website": "https://www.chuden.co.jp"
+    },
+    "9503.T": {
+        "Ticker": "9503.T",
+        "LongName": "The Kansai Electric Power Company, Incorporated",
+        "ShortName": "KANSAI ELECTRIC POWER CO INC",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Renewable",
+        "Website": "https://www.kepco.co.jp"
+    },
+    "9531.T": {
+        "Ticker": "9531.T",
+        "LongName": "Tokyo Gas Co.,Ltd.",
+        "ShortName": "TOKYO GAS CO",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Gas",
+        "Website": "https://www.tokyo-gas.co.jp"
+    },
+    "9532.T": {
+        "Ticker": "9532.T",
+        "LongName": "Osaka Gas Co., Ltd.",
+        "ShortName": "OSAKA GAS CO",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Gas",
+        "Website": "https://www.osakagas.co.jp"
+    },
+    "9602.T": {
+        "Ticker": "9602.T",
+        "LongName": "Toho Co., Ltd.",
+        "ShortName": "TOHO CO LTD",
+        "Sector": "Communication Services",
+        "Industry": "Entertainment",
+        "Website": "https://www.toho.co.jp"
+    },
+    "9735.T": {
+        "Ticker": "9735.T",
+        "LongName": "SECOM CO., LTD.",
+        "ShortName": "SECOM CO",
+        "Sector": "Industrials",
+        "Industry": "Security & Protection Services",
+        "Website": "https://www.secom.co.jp"
+    },
+    "9766.T": {
+        "Ticker": "9766.T",
+        "LongName": "Konami Group Corporation",
+        "ShortName": "KONAMI GROUP CORPORATION",
+        "Sector": "Communication Services",
+        "Industry": "Electronic Gaming & Multimedia",
+        "Website": "https://www.konami.com"
+    },
+    "9843.T": {
+        "Ticker": "9843.T",
+        "LongName": "Nitori Holdings Co., Ltd.",
+        "ShortName": "NITORI HOLDINGS CO LTD",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Furnishings, Fixtures & Appliances",
+        "Website": "https://www.nitorihd.co.jp"
+    },
+    "9983.T": {
+        "Ticker": "9983.T",
+        "LongName": "Fast Retailing Co., Ltd.",
+        "ShortName": "FAST RETAILING CO LTD",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Apparel Retail",
+        "Website": "https://www.fastretailing.com"
+    },
+    "9984.T": {
+        "Ticker": "9984.T",
+        "LongName": "SoftBank Group Corp.",
+        "ShortName": "SOFTBANK GROUP CORP",
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "Website": "https://group.softbank"
+    },
+    "A": {
+        "Ticker": "A",
+        "LongName": "Agilent Technologies, Inc.",
+        "ShortName": "Agilent Technologies, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Diagnostics & Research",
+        "Website": "https://www.agilent.com"
+    },
+    "AAPL": {
+        "Ticker": "AAPL",
+        "LongName": "Apple Inc.",
+        "ShortName": "Apple Inc.",
+        "Sector": "Technology",
+        "Industry": "Consumer Electronics",
+        "Website": "https://www.apple.com"
+    },
+    "ABBV": {
+        "Ticker": "ABBV",
+        "LongName": "AbbVie Inc.",
+        "ShortName": "AbbVie Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - General",
+        "Website": "https://www.abbvie.com"
+    },
+    "ABNB": {
+        "Ticker": "ABNB",
+        "LongName": "Airbnb, Inc.",
+        "ShortName": "Airbnb, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Travel Services",
+        "Website": "https://www.airbnb.com"
+    },
+    "ABT": {
+        "Ticker": "ABT",
+        "LongName": "Abbott Laboratories",
+        "ShortName": "Abbott Laboratories",
+        "Sector": "Healthcare",
+        "Industry": "Medical Devices",
+        "Website": "https://www.abbott.com"
+    },
+    "ACGL": {
+        "Ticker": "ACGL",
+        "LongName": "Arch Capital Group Ltd.",
+        "ShortName": "Arch Capital Group Ltd.",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Diversified",
+        "Website": "https://www.archgroup.com"
+    },
+    "ACN": {
+        "Ticker": "ACN",
+        "LongName": "Accenture plc",
+        "ShortName": "Accenture plc",
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "Website": "https://www.accenture.com"
+    },
+    "ADBE": {
+        "Ticker": "ADBE",
+        "LongName": "Adobe Inc.",
+        "ShortName": "Adobe Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.adobe.com"
+    },
+    "ADI": {
+        "Ticker": "ADI",
+        "LongName": "Analog Devices, Inc.",
+        "ShortName": "Analog Devices, Inc.",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.analog.com"
+    },
+    "ADM": {
+        "Ticker": "ADM",
+        "LongName": "Archer-Daniels-Midland Company",
+        "ShortName": "Archer-Daniels-Midland Company",
+        "Sector": "Consumer Defensive",
+        "Industry": "Farm Products",
+        "Website": "https://www.adm.com"
+    },
+    "ADP": {
+        "Ticker": "ADP",
+        "LongName": "Automatic Data Processing, Inc.",
+        "ShortName": "Automatic Data Processing, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.adp.com"
+    },
+    "ADSK": {
+        "Ticker": "ADSK",
+        "LongName": "Autodesk, Inc.",
+        "ShortName": "Autodesk, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.autodesk.com"
+    },
+    "AEE": {
+        "Ticker": "AEE",
+        "LongName": "Ameren Corporation",
+        "ShortName": "Ameren Corporation",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.amereninvestors.com"
+    },
+    "AEP": {
+        "Ticker": "AEP",
+        "LongName": "American Electric Power Company, Inc.",
+        "ShortName": "American Electric Power Company",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.aep.com"
+    },
+    "AES": {
+        "Ticker": "AES",
+        "LongName": "The AES Corporation",
+        "ShortName": "The AES Corporation",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Diversified",
+        "Website": "https://www.aes.com"
+    },
+    "AFL": {
+        "Ticker": "AFL",
+        "LongName": "Aflac Incorporated",
+        "ShortName": "AFLAC Incorporated",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Life",
+        "Website": "https://www.aflac.com"
+    },
+    "AIG": {
+        "Ticker": "AIG",
+        "LongName": "American International Group, Inc.",
+        "ShortName": "American International Group, I",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Diversified",
+        "Website": "https://www.aig.com"
+    },
+    "AIZ": {
+        "Ticker": "AIZ",
+        "LongName": "Assurant, Inc.",
+        "ShortName": "Assurant, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Property & Casualty",
+        "Website": "https://www.assurant.com"
+    },
+    "AJG": {
+        "Ticker": "AJG",
+        "LongName": "Arthur J. Gallagher & Co.",
+        "ShortName": "Arthur J. Gallagher & Co.",
+        "Sector": "Financial Services",
+        "Industry": "Insurance Brokers",
+        "Website": "https://www.ajg.com"
+    },
+    "AKAM": {
+        "Ticker": "AKAM",
+        "LongName": "Akamai Technologies, Inc.",
+        "ShortName": "Akamai Technologies, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.akamai.com"
+    },
+    "ALB": {
+        "Ticker": "ALB",
+        "LongName": "Albemarle Corporation",
+        "ShortName": "Albemarle Corporation",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.albemarle.com"
+    },
+    "ALGN": {
+        "Ticker": "ALGN",
+        "LongName": "Align Technology, Inc.",
+        "ShortName": "Align Technology, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Instruments & Supplies",
+        "Website": "https://www.aligntech.com"
+    },
+    "ALL": {
+        "Ticker": "ALL",
+        "LongName": "The Allstate Corporation",
+        "ShortName": "Allstate Corporation (The)",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Property & Casualty",
+        "Website": "https://www.allstate.com"
+    },
+    "ALLE": {
+        "Ticker": "ALLE",
+        "LongName": "Allegion plc",
+        "ShortName": "Allegion plc",
+        "Sector": "Industrials",
+        "Industry": "Security & Protection Services",
+        "Website": "https://www.allegion.com/corp/en/index.html"
+    },
+    "AMAT": {
+        "Ticker": "AMAT",
+        "LongName": "Applied Materials, Inc.",
+        "ShortName": "Applied Materials, Inc.",
+        "Sector": "Technology",
+        "Industry": "Semiconductor Equipment & Materials",
+        "Website": "https://www.appliedmaterials.com"
+    },
+    "AMCR": {
+        "Ticker": "AMCR",
+        "LongName": "Amcor plc",
+        "ShortName": "Amcor plc",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Packaging & Containers",
+        "Website": "https://www.amcor.com"
+    },
+    "AMD": {
+        "Ticker": "AMD",
+        "LongName": "Advanced Micro Devices, Inc.",
+        "ShortName": "Advanced Micro Devices, Inc.",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.amd.com"
+    },
+    "AME": {
+        "Ticker": "AME",
+        "LongName": "AMETEK, Inc.",
+        "ShortName": "AMETEK, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.ametek.com"
+    },
+    "AMGN": {
+        "Ticker": "AMGN",
+        "LongName": "Amgen Inc.",
+        "ShortName": "Amgen Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - General",
+        "Website": "https://www.amgen.com"
+    },
+    "AMP": {
+        "Ticker": "AMP",
+        "LongName": "Ameriprise Financial, Inc.",
+        "ShortName": "Ameriprise Financial, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "Website": "https://www.ameriprise.com"
+    },
+    "AMT": {
+        "Ticker": "AMT",
+        "LongName": "American Tower Corporation",
+        "ShortName": "American Tower Corporation (REI",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Specialty",
+        "Website": "https://www.americantower.com"
+    },
+    "AMZN": {
+        "Ticker": "AMZN",
+        "LongName": "Amazon.com, Inc.",
+        "ShortName": "Amazon.com, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Internet Retail",
+        "Website": "https://www.amazon.com"
+    },
+    "ANET": {
+        "Ticker": "ANET",
+        "LongName": "Arista Networks, Inc.",
+        "ShortName": "Arista Networks, Inc.",
+        "Sector": "Technology",
+        "Industry": "Computer Hardware",
+        "Website": "https://www.arista.com"
+    },
+    "AON": {
+        "Ticker": "AON",
+        "LongName": "Aon plc",
+        "ShortName": "Aon plc",
+        "Sector": "Financial Services",
+        "Industry": "Insurance Brokers",
+        "Website": "https://www.aon.com"
+    },
+    "AOS": {
+        "Ticker": "AOS",
+        "LongName": "A. O. Smith Corporation",
+        "ShortName": "A.O. Smith Corporation",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.aosmith.com"
+    },
+    "APA": {
+        "Ticker": "APA",
+        "LongName": "APA Corporation",
+        "ShortName": "APA Corporation",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas E&P",
+        "Website": "https://www.apacorp.com"
+    },
+    "APD": {
+        "Ticker": "APD",
+        "LongName": "Air Products and Chemicals, Inc.",
+        "ShortName": "Air Products and Chemicals, Inc",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.airproducts.com"
+    },
+    "APH": {
+        "Ticker": "APH",
+        "LongName": "Amphenol Corporation",
+        "ShortName": "Amphenol Corporation",
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "Website": "https://www.amphenol.com"
+    },
+    "APO": {
+        "Ticker": "APO",
+        "LongName": "Apollo Global Management, Inc.",
+        "ShortName": "Apollo Global Management, Inc. ",
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "Website": "https://www.apollo.com/institutional/homepage"
+    },
+    "APP": {
+        "Ticker": "APP",
+        "LongName": "AppLovin Corporation",
+        "ShortName": "Applovin Corporation",
+        "Sector": "Communication Services",
+        "Industry": "Advertising Agencies",
+        "Website": "https://www.applovin.com"
+    },
+    "APTV": {
+        "Ticker": "APTV",
+        "LongName": "Aptiv PLC",
+        "ShortName": "Aptiv PLC",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Parts",
+        "Website": "https://www.aptiv.com"
+    },
+    "ARE": {
+        "Ticker": "ARE",
+        "LongName": "Alexandria Real Estate Equities, Inc.",
+        "ShortName": "Alexandria Real Estate Equities",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Office",
+        "Website": "https://www.are.com"
+    },
+    "ARES": {
+        "Ticker": "ARES",
+        "LongName": "Ares Management Corporation",
+        "ShortName": "Ares Management Corporation",
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "Website": "https://www.ares.com"
+    },
+    "ATO": {
+        "Ticker": "ATO",
+        "LongName": "Atmos Energy Corporation",
+        "ShortName": "Atmos Energy Corporation",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Gas",
+        "Website": "https://www.atmosenergy.com"
+    },
+    "AVB": {
+        "Ticker": "AVB",
+        "LongName": "AvalonBay Communities, Inc.",
+        "ShortName": "AvalonBay Communities, Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Residential",
+        "Website": "https://www.avaloncommunities.com"
+    },
+    "AVGO": {
+        "Ticker": "AVGO",
+        "LongName": "Broadcom Inc.",
+        "ShortName": "Broadcom Inc.",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.broadcom.com"
+    },
+    "AVY": {
+        "Ticker": "AVY",
+        "LongName": "Avery Dennison Corporation",
+        "ShortName": "Avery Dennison Corporation",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Packaging & Containers",
+        "Website": "https://www.averydennison.com"
+    },
+    "AWK": {
+        "Ticker": "AWK",
+        "LongName": "American Water Works Company, Inc.",
+        "ShortName": "American Water Works Company, I",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Water",
+        "Website": "https://www.amwater.com"
+    },
+    "AXON": {
+        "Ticker": "AXON",
+        "LongName": "Axon Enterprise, Inc.",
+        "ShortName": "Axon Enterprise, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Aerospace & Defense",
+        "Website": "https://www.axon.com"
+    },
+    "AXP": {
+        "Ticker": "AXP",
+        "LongName": "American Express Company",
+        "ShortName": "American Express Company",
+        "Sector": "Financial Services",
+        "Industry": "Credit Services",
+        "Website": "https://www.americanexpress.com"
+    },
+    "AZO": {
+        "Ticker": "AZO",
+        "LongName": "AutoZone, Inc.",
+        "ShortName": "AutoZone, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Parts",
+        "Website": "https://www.autozone.com"
+    },
+    "BA": {
+        "Ticker": "BA",
+        "LongName": "The Boeing Company",
+        "ShortName": "Boeing Company (The)",
+        "Sector": "Industrials",
+        "Industry": "Aerospace & Defense",
+        "Website": "https://www.boeing.com"
+    },
+    "BAC": {
+        "Ticker": "BAC",
+        "LongName": "Bank of America Corporation",
+        "ShortName": "Bank of America Corporation",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Diversified",
+        "Website": "https://www.bankofamerica.com"
+    },
+    "BALL": {
+        "Ticker": "BALL",
+        "LongName": "Ball Corporation",
+        "ShortName": "Ball Corporation",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Packaging & Containers",
+        "Website": "https://www.ball.com"
+    },
+    "BAX": {
+        "Ticker": "BAX",
+        "LongName": "Baxter International Inc.",
+        "ShortName": "Baxter International Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Instruments & Supplies",
+        "Website": "https://www.baxter.com"
+    },
+    "BBY": {
+        "Ticker": "BBY",
+        "LongName": "Best Buy Co., Inc.",
+        "ShortName": "Best Buy Co., Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Specialty Retail",
+        "Website": "https://corporate.bestbuy.com"
+    },
+    "BDX": {
+        "Ticker": "BDX",
+        "LongName": "Becton, Dickinson and Company",
+        "ShortName": "Becton, Dickinson and Company",
+        "Sector": "Healthcare",
+        "Industry": "Medical Instruments & Supplies",
+        "Website": "https://www.bd.com"
+    },
+    "BEN": {
+        "Ticker": "BEN",
+        "LongName": "Franklin Resources, Inc.",
+        "ShortName": "Franklin Resources, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "Website": "https://www.franklinresources.com"
+    },
+    "BF-B": {
+        "Ticker": "BF-B",
+        "LongName": "Brown-Forman Corporation",
+        "ShortName": "Brown Forman Inc",
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages - Wineries & Distilleries",
+        "Website": "https://www.brown-forman.com"
+    },
+    "BG": {
+        "Ticker": "BG",
+        "LongName": "Bunge Global SA",
+        "ShortName": "Bunge Limited",
+        "Sector": "Consumer Defensive",
+        "Industry": "Farm Products",
+        "Website": "https://www.bunge.com"
+    },
+    "BIIB": {
+        "Ticker": "BIIB",
+        "LongName": "Biogen Inc.",
+        "ShortName": "Biogen Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - General",
+        "Website": "https://www.biogen.com"
+    },
+    "BK": {
+        "Ticker": "BK",
+        "LongName": "The Bank of New York Mellon Corporation",
+        "ShortName": "The Bank of New York Mellon Cor",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Diversified",
+        "Website": "https://www.bny.com"
+    },
+    "BKNG": {
+        "Ticker": "BKNG",
+        "LongName": "Booking Holdings Inc.",
+        "ShortName": "Booking Holdings Inc. Common St",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Travel Services",
+        "Website": "https://www.bookingholdings.com"
+    },
+    "BKR": {
+        "Ticker": "BKR",
+        "LongName": "Baker Hughes Company",
+        "ShortName": "Baker Hughes Company",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Equipment & Services",
+        "Website": "https://www.bakerhughes.com"
+    },
+    "BLDR": {
+        "Ticker": "BLDR",
+        "LongName": "Builders FirstSource, Inc.",
+        "ShortName": "Builders FirstSource, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Building Products & Equipment",
+        "Website": "https://www.bldr.com"
+    },
+    "BLK": {
+        "Ticker": "BLK",
+        "LongName": "BlackRock, Inc.",
+        "ShortName": "BlackRock, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "Website": "https://www.blackrock.com"
+    },
+    "BMY": {
+        "Ticker": "BMY",
+        "LongName": "Bristol-Myers Squibb Company",
+        "ShortName": "Bristol-Myers Squibb Company",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - General",
+        "Website": "https://www.bms.com"
+    },
+    "BNY": {
+        "Ticker": "BNY",
+        "LongName": "BNY",
+        "ShortName": "The Bank of New York Mellon Cor",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Diversified",
+        "Website": "https://www.bny.com"
+    },
+    "BR": {
+        "Ticker": "BR",
+        "LongName": "Broadridge Financial Solutions, Inc.",
+        "ShortName": "Broadridge Financial Solutions,",
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "Website": "https://www.broadridge.com"
+    },
+    "BRK-B": {
+        "Ticker": "BRK-B",
+        "LongName": "Berkshire Hathaway Inc.",
+        "ShortName": "Berkshire Hathaway Inc. New",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Diversified",
+        "Website": "https://www.berkshirehathaway.com"
+    },
+    "BRO": {
+        "Ticker": "BRO",
+        "LongName": "Brown & Brown, Inc.",
+        "ShortName": "Brown & Brown, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Insurance Brokers",
+        "Website": "https://www.bbrown.com"
+    },
+    "BSX": {
+        "Ticker": "BSX",
+        "LongName": "Boston Scientific Corporation",
+        "ShortName": "Boston Scientific Corporation",
+        "Sector": "Healthcare",
+        "Industry": "Medical Devices",
+        "Website": "https://www.bostonscientific.com"
+    },
+    "BX": {
+        "Ticker": "BX",
+        "LongName": "Blackstone Inc.",
+        "ShortName": "Blackstone Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "Website": "https://www.blackstone.com"
+    },
+    "BXP": {
+        "Ticker": "BXP",
+        "LongName": "BXP, Inc.",
+        "ShortName": "BXP, Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Office",
+        "Website": "https://www.bxp.com"
+    },
+    "C": {
+        "Ticker": "C",
+        "LongName": "Citigroup Inc.",
+        "ShortName": "Citigroup, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Diversified",
+        "Website": "https://www.citigroup.com"
+    },
+    "CAG": {
+        "Ticker": "CAG",
+        "LongName": "Conagra Brands, Inc.",
+        "ShortName": "ConAgra Brands, Inc.",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.conagrabrands.com"
+    },
+    "CAH": {
+        "Ticker": "CAH",
+        "LongName": "Cardinal Health, Inc.",
+        "ShortName": "Cardinal Health, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Distribution",
+        "Website": "https://www.cardinalhealth.com"
+    },
+    "CARR": {
+        "Ticker": "CARR",
+        "LongName": "Carrier Global Corporation",
+        "ShortName": "Carrier Global Corporation",
+        "Sector": "Industrials",
+        "Industry": "Building Products & Equipment",
+        "Website": "https://www.carrier.com"
+    },
+    "CASY": {
+        "Ticker": "CASY",
+        "LongName": "Casey's General Stores, Inc.",
+        "ShortName": "Caseys General Stores, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Specialty Retail",
+        "Website": "https://www.caseys.com"
+    },
+    "CAT": {
+        "Ticker": "CAT",
+        "LongName": "Caterpillar Inc.",
+        "ShortName": "Caterpillar, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Farm & Heavy Construction Machinery",
+        "Website": "https://www.caterpillar.com"
+    },
+    "CB": {
+        "Ticker": "CB",
+        "LongName": "Chubb Limited",
+        "ShortName": "Chubb Limited",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Property & Casualty",
+        "Website": "https://www.chubb.com"
+    },
+    "CBOE": {
+        "Ticker": "CBOE",
+        "LongName": "Cboe Global Markets, Inc.",
+        "ShortName": "Cboe Global Markets, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Financial Data & Stock Exchanges",
+        "Website": "https://www.cboe.com"
+    },
+    "CBRE": {
+        "Ticker": "CBRE",
+        "LongName": "CBRE Group, Inc.",
+        "ShortName": "CBRE Group Inc",
+        "Sector": "Real Estate",
+        "Industry": "Real Estate Services",
+        "Website": "https://www.cbre.com"
+    },
+    "CCI": {
+        "Ticker": "CCI",
+        "LongName": "Crown Castle Inc.",
+        "ShortName": "Crown Castle Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Specialty",
+        "Website": "https://www.crowncastle.com"
+    },
+    "CCL": {
+        "Ticker": "CCL",
+        "LongName": "Carnival Corporation Ltd.",
+        "ShortName": "Carnival Corporation Ltd.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Travel Services",
+        "Website": "https://www.carnivalcorp.com"
+    },
+    "CDNS": {
+        "Ticker": "CDNS",
+        "LongName": "Cadence Design Systems, Inc.",
+        "ShortName": "Cadence Design Systems, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.cadence.com"
+    },
+    "CDW": {
+        "Ticker": "CDW",
+        "LongName": "CDW Corporation",
+        "ShortName": "CDW Corporation",
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "Website": "https://www.cdw.com"
+    },
+    "CEG": {
+        "Ticker": "CEG",
+        "LongName": "Constellation Energy Corporation",
+        "ShortName": "Constellation Energy Corporatio",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Independent Power Producers",
+        "Website": "https://www.constellationenergy.com"
+    },
+    "CF": {
+        "Ticker": "CF",
+        "LongName": "CF Industries Holdings, Inc.",
+        "ShortName": "CF Industries Holdings, Inc.",
+        "Sector": "Basic Materials",
+        "Industry": "Agricultural Inputs",
+        "Website": "https://www.cfindustries.com"
+    },
+    "CFG": {
+        "Ticker": "CFG",
+        "LongName": "Citizens Financial Group, Inc.",
+        "ShortName": "Citizens Financial Group, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.citizensbank.com"
+    },
+    "CHD": {
+        "Ticker": "CHD",
+        "LongName": "Church & Dwight Co., Inc.",
+        "ShortName": "Church & Dwight Company, Inc.",
+        "Sector": "Consumer Defensive",
+        "Industry": "Household & Personal Products",
+        "Website": "https://www.churchdwight.com"
+    },
+    "CHRW": {
+        "Ticker": "CHRW",
+        "LongName": "C.H. Robinson Worldwide, Inc.",
+        "ShortName": "C.H. Robinson Worldwide, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Integrated Freight & Logistics",
+        "Website": "https://www.chrobinson.com"
+    },
+    "CHTR": {
+        "Ticker": "CHTR",
+        "LongName": "Charter Communications, Inc.",
+        "ShortName": "Charter Communications, Inc.",
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "Website": "https://corporate.charter.com"
+    },
+    "CI": {
+        "Ticker": "CI",
+        "LongName": "The Cigna Group",
+        "ShortName": "The Cigna Group",
+        "Sector": "Healthcare",
+        "Industry": "Healthcare Plans",
+        "Website": "https://www.thecignagroup.com"
+    },
+    "CIEN": {
+        "Ticker": "CIEN",
+        "LongName": "Ciena Corporation",
+        "ShortName": "Ciena Corporation",
+        "Sector": "Technology",
+        "Industry": "Communication Equipment",
+        "Website": "https://www.ciena.com"
+    },
+    "CINF": {
+        "Ticker": "CINF",
+        "LongName": "Cincinnati Financial Corporation",
+        "ShortName": "Cincinnati Financial Corporatio",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Property & Casualty",
+        "Website": "https://www.cinfin.com"
+    },
+    "CL": {
+        "Ticker": "CL",
+        "LongName": "Colgate-Palmolive Company",
+        "ShortName": "Colgate-Palmolive Company",
+        "Sector": "Consumer Defensive",
+        "Industry": "Household & Personal Products",
+        "Website": "https://www.colgatepalmolive.com"
+    },
+    "CLX": {
+        "Ticker": "CLX",
+        "LongName": "The Clorox Company",
+        "ShortName": "Clorox Company (The)",
+        "Sector": "Consumer Defensive",
+        "Industry": "Household & Personal Products",
+        "Website": "https://www.thecloroxcompany.com"
+    },
+    "CMCSA": {
+        "Ticker": "CMCSA",
+        "LongName": "Comcast Corporation",
+        "ShortName": "Comcast Corporation",
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "Website": "https://corporate.comcast.com"
+    },
+    "CME": {
+        "Ticker": "CME",
+        "LongName": "CME Group Inc.",
+        "ShortName": "CME Group Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Financial Data & Stock Exchanges",
+        "Website": "https://www.cmegroup.com"
+    },
+    "CMG": {
+        "Ticker": "CMG",
+        "LongName": "Chipotle Mexican Grill, Inc.",
+        "ShortName": "Chipotle Mexican Grill, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Restaurants",
+        "Website": "https://www.chipotle.com"
+    },
+    "CMI": {
+        "Ticker": "CMI",
+        "LongName": "Cummins Inc.",
+        "ShortName": "Cummins Inc.",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.cummins.com"
+    },
+    "CMS": {
+        "Ticker": "CMS",
+        "LongName": "CMS Energy Corporation",
+        "ShortName": "CMS Energy Corporation",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.cmsenergy.com"
+    },
+    "CNC": {
+        "Ticker": "CNC",
+        "LongName": "Centene Corporation",
+        "ShortName": "Centene Corporation",
+        "Sector": "Healthcare",
+        "Industry": "Healthcare Plans",
+        "Website": "https://www.centene.com"
+    },
+    "CNP": {
+        "Ticker": "CNP",
+        "LongName": "CenterPoint Energy, Inc.",
+        "ShortName": "CenterPoint Energy, Inc (Holdin",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.centerpointenergy.com"
+    },
+    "COF": {
+        "Ticker": "COF",
+        "LongName": "Capital One Financial Corporation",
+        "ShortName": "Capital One Financial Corporati",
+        "Sector": "Financial Services",
+        "Industry": "Credit Services",
+        "Website": "https://www.capitalone.com"
+    },
+    "COHR": {
+        "Ticker": "COHR",
+        "LongName": "Coherent Corp.",
+        "ShortName": "Coherent Corp.",
+        "Sector": "Technology",
+        "Industry": "Scientific & Technical Instruments",
+        "Website": "https://www.coherent.com"
+    },
+    "COIN": {
+        "Ticker": "COIN",
+        "LongName": "Coinbase Global, Inc.",
+        "ShortName": "Coinbase Global, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Financial Data & Stock Exchanges",
+        "Website": "https://www.coinbase.com"
+    },
+    "COO": {
+        "Ticker": "COO",
+        "LongName": "The Cooper Companies, Inc.",
+        "ShortName": "The Cooper Companies, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Instruments & Supplies",
+        "Website": "https://www.coopercos.com"
+    },
+    "COP": {
+        "Ticker": "COP",
+        "LongName": "ConocoPhillips",
+        "ShortName": "ConocoPhillips",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas E&P",
+        "Website": "https://www.conocophillips.com"
+    },
+    "COR": {
+        "Ticker": "COR",
+        "LongName": "Cencora, Inc.",
+        "ShortName": "Cencora, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Distribution",
+        "Website": "https://www.cencora.com"
+    },
+    "COST": {
+        "Ticker": "COST",
+        "LongName": "Costco Wholesale Corporation",
+        "ShortName": "Costco Wholesale Corporation",
+        "Sector": "Consumer Defensive",
+        "Industry": "Discount Stores",
+        "Website": "https://www.costco.com"
+    },
+    "CPAY": {
+        "Ticker": "CPAY",
+        "LongName": "Corpay, Inc.",
+        "ShortName": "Corpay, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.corpay.com"
+    },
+    "CPB": {
+        "Ticker": "CPB",
+        "LongName": "The Campbell's Company",
+        "ShortName": "The Campbell's Company",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.thecampbellscompany.com"
+    },
+    "CPRT": {
+        "Ticker": "CPRT",
+        "LongName": "Copart, Inc.",
+        "ShortName": "Copart, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Specialty Business Services",
+        "Website": "https://www.copart.com"
+    },
+    "CPT": {
+        "Ticker": "CPT",
+        "LongName": "Camden Property Trust",
+        "ShortName": "Camden Property Trust",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Residential",
+        "Website": "https://www.camdenliving.com"
+    },
+    "CRH": {
+        "Ticker": "CRH",
+        "LongName": "CRH plc",
+        "ShortName": "CRH PLC",
+        "Sector": "Basic Materials",
+        "Industry": "Building Materials",
+        "Website": "https://www.crh.com"
+    },
+    "CRL": {
+        "Ticker": "CRL",
+        "LongName": "Charles River Laboratories International, Inc.",
+        "ShortName": "Charles River Laboratories Inte",
+        "Sector": "Healthcare",
+        "Industry": "Diagnostics & Research",
+        "Website": "https://www.criver.com"
+    },
+    "CRM": {
+        "Ticker": "CRM",
+        "LongName": "Salesforce, Inc.",
+        "ShortName": "Salesforce, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.salesforce.com"
+    },
+    "CRWD": {
+        "Ticker": "CRWD",
+        "LongName": "CrowdStrike Holdings, Inc.",
+        "ShortName": "CrowdStrike Holdings, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.crowdstrike.com"
+    },
+    "CSCO": {
+        "Ticker": "CSCO",
+        "LongName": "Cisco Systems, Inc.",
+        "ShortName": "Cisco Systems, Inc.",
+        "Sector": "Technology",
+        "Industry": "Communication Equipment",
+        "Website": "https://www.cisco.com"
+    },
+    "CSGP": {
+        "Ticker": "CSGP",
+        "LongName": "CoStar Group, Inc.",
+        "ShortName": "CoStar Group, Inc.",
+        "Sector": "Real Estate",
+        "Industry": "Real Estate Services",
+        "Website": "https://www.costargroup.com"
+    },
+    "CSX": {
+        "Ticker": "CSX",
+        "LongName": "CSX Corporation",
+        "ShortName": "CSX Corporation",
+        "Sector": "Industrials",
+        "Industry": "Railroads",
+        "Website": "https://www.csx.com"
+    },
+    "CTAS": {
+        "Ticker": "CTAS",
+        "LongName": "Cintas Corporation",
+        "ShortName": "Cintas Corporation",
+        "Sector": "Industrials",
+        "Industry": "Specialty Business Services",
+        "Website": "https://www.cintas.com"
+    },
+    "CTSH": {
+        "Ticker": "CTSH",
+        "LongName": "Cognizant Technology Solutions Corporation",
+        "ShortName": "Cognizant Technology Solutions ",
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "Website": "https://www.cognizant.com"
+    },
+    "CTVA": {
+        "Ticker": "CTVA",
+        "LongName": "Corteva, Inc.",
+        "ShortName": "Corteva, Inc.",
+        "Sector": "Basic Materials",
+        "Industry": "Agricultural Inputs",
+        "Website": "https://www.corteva.com"
+    },
+    "CVNA": {
+        "Ticker": "CVNA",
+        "LongName": "Carvana Co.",
+        "ShortName": "Carvana Co.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto & Truck Dealerships",
+        "Website": "https://www.carvana.com"
+    },
+    "CVS": {
+        "Ticker": "CVS",
+        "LongName": "CVS Health Corporation",
+        "ShortName": "CVS Health Corporation",
+        "Sector": "Healthcare",
+        "Industry": "Healthcare Plans",
+        "Website": "https://www.cvshealth.com"
+    },
+    "CVX": {
+        "Ticker": "CVX",
+        "LongName": "Chevron Corporation",
+        "ShortName": "Chevron Corporation",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Integrated",
+        "Website": "https://www.chevron.com"
+    },
+    "D": {
+        "Ticker": "D",
+        "LongName": "Dominion Energy, Inc.",
+        "ShortName": "Dominion Energy, Inc.",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.dominionenergy.com"
+    },
+    "DAL": {
+        "Ticker": "DAL",
+        "LongName": "Delta Air Lines, Inc.",
+        "ShortName": "Delta Air Lines, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Airlines",
+        "Website": "https://www.delta.com"
+    },
+    "DASH": {
+        "Ticker": "DASH",
+        "LongName": "DoorDash, Inc.",
+        "ShortName": "DoorDash, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Internet Retail",
+        "Website": "https://www.doordash.com"
+    },
+    "DD": {
+        "Ticker": "DD",
+        "LongName": "DuPont de Nemours, Inc.",
+        "ShortName": "DuPont de Nemours, Inc.",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.dupont.com"
+    },
+    "DDOG": {
+        "Ticker": "DDOG",
+        "LongName": "Datadog, Inc.",
+        "ShortName": "Datadog, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.datadoghq.com"
+    },
+    "DE": {
+        "Ticker": "DE",
+        "LongName": "Deere & Company",
+        "ShortName": "Deere & Company",
+        "Sector": "Industrials",
+        "Industry": "Farm & Heavy Construction Machinery",
+        "Website": "https://www.deere.com/en"
+    },
+    "DECK": {
+        "Ticker": "DECK",
+        "LongName": "Deckers Outdoor Corporation",
+        "ShortName": "Deckers Outdoor Corporation",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Footwear & Accessories",
+        "Website": "https://www.deckers.com"
+    },
+    "DELL": {
+        "Ticker": "DELL",
+        "LongName": "Dell Technologies Inc.",
+        "ShortName": "Dell Technologies Inc.",
+        "Sector": "Technology",
+        "Industry": "Computer Hardware",
+        "Website": "https://www.dell.com"
+    },
+    "DG": {
+        "Ticker": "DG",
+        "LongName": "Dollar General Corporation",
+        "ShortName": "Dollar General Corporation",
+        "Sector": "Consumer Defensive",
+        "Industry": "Discount Stores",
+        "Website": "https://www.dollargeneral.com"
+    },
+    "DGX": {
+        "Ticker": "DGX",
+        "LongName": "Quest Diagnostics Incorporated",
+        "ShortName": "Quest Diagnostics Incorporated",
+        "Sector": "Healthcare",
+        "Industry": "Diagnostics & Research",
+        "Website": "https://www.questdiagnostics.com"
+    },
+    "DHI": {
+        "Ticker": "DHI",
+        "LongName": "D.R. Horton, Inc.",
+        "ShortName": "D.R. Horton, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Residential Construction",
+        "Website": "https://www.drhorton.com"
+    },
+    "DHR": {
+        "Ticker": "DHR",
+        "LongName": "Danaher Corporation",
+        "ShortName": "Danaher Corporation",
+        "Sector": "Healthcare",
+        "Industry": "Diagnostics & Research",
+        "Website": "https://www.danaher.com"
+    },
+    "DIS": {
+        "Ticker": "DIS",
+        "LongName": "The Walt Disney Company",
+        "ShortName": "Walt Disney Company (The)",
+        "Sector": "Communication Services",
+        "Industry": "Entertainment",
+        "Website": "https://thewaltdisneycompany.com"
+    },
+    "DLR": {
+        "Ticker": "DLR",
+        "LongName": "Digital Realty Trust, Inc.",
+        "ShortName": "Digital Realty Trust, Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Specialty",
+        "Website": "https://www.digitalrealty.com"
+    },
+    "DLTR": {
+        "Ticker": "DLTR",
+        "LongName": "Dollar Tree, Inc.",
+        "ShortName": "Dollar Tree, Inc.",
+        "Sector": "Consumer Defensive",
+        "Industry": "Discount Stores",
+        "Website": "https://www.dollartree.com"
+    },
+    "DOC": {
+        "Ticker": "DOC",
+        "LongName": "Healthpeak Properties, Inc.",
+        "ShortName": "Healthpeak Properties, Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Healthcare Facilities",
+        "Website": "https://www.healthpeak.com"
+    },
+    "DOV": {
+        "Ticker": "DOV",
+        "LongName": "Dover Corporation",
+        "ShortName": "Dover Corporation",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.dovercorporation.com"
+    },
+    "DOW": {
+        "Ticker": "DOW",
+        "LongName": "Dow Inc.",
+        "ShortName": "Dow Inc.",
+        "Sector": "Basic Materials",
+        "Industry": "Chemicals",
+        "Website": "https://www.dow.com"
+    },
+    "DPZ": {
+        "Ticker": "DPZ",
+        "LongName": "Domino's Pizza, Inc.",
+        "ShortName": "Domino's Pizza Inc",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Restaurants",
+        "Website": "https://biz.dominos.com"
+    },
+    "DRI": {
+        "Ticker": "DRI",
+        "LongName": "Darden Restaurants, Inc.",
+        "ShortName": "Darden Restaurants, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Restaurants",
+        "Website": "https://www.darden.com"
+    },
+    "DTE": {
+        "Ticker": "DTE",
+        "LongName": "DTE Energy Company",
+        "ShortName": "DTE Energy Company",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.dteenergy.com"
+    },
+    "DUK": {
+        "Ticker": "DUK",
+        "LongName": "Duke Energy Corporation",
+        "ShortName": "Duke Energy Corporation (Holdin",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.duke-energy.com/home"
+    },
+    "DVA": {
+        "Ticker": "DVA",
+        "LongName": "DaVita Inc.",
+        "ShortName": "DaVita Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Care Facilities",
+        "Website": "https://www.davita.com"
+    },
+    "DVN": {
+        "Ticker": "DVN",
+        "LongName": "Devon Energy Corporation",
+        "ShortName": "Devon Energy Corporation",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas E&P",
+        "Website": "https://www.devonenergy.com"
+    },
+    "DXCM": {
+        "Ticker": "DXCM",
+        "LongName": "DexCom, Inc.",
+        "ShortName": "DexCom, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Devices",
+        "Website": "https://www.dexcom.com"
+    },
+    "EA": {
+        "Ticker": "EA",
+        "LongName": "Electronic Arts Inc.",
+        "ShortName": "Electronic Arts Inc.",
+        "Sector": "Communication Services",
+        "Industry": "Electronic Gaming & Multimedia",
+        "Website": "https://www.ea.com"
+    },
+    "EBAY": {
+        "Ticker": "EBAY",
+        "LongName": "eBay Inc.",
+        "ShortName": "eBay Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Internet Retail",
+        "Website": "https://www.ebayinc.com"
+    },
+    "ECL": {
+        "Ticker": "ECL",
+        "LongName": "Ecolab Inc.",
+        "ShortName": "Ecolab Inc.",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.ecolab.com"
+    },
+    "ED": {
+        "Ticker": "ED",
+        "LongName": "Consolidated Edison, Inc.",
+        "ShortName": "Consolidated Edison, Inc.",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.conedison.com"
+    },
+    "EFX": {
+        "Ticker": "EFX",
+        "LongName": "Equifax Inc.",
+        "ShortName": "Equifax, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Consulting Services",
+        "Website": "https://www.equifax.com"
+    },
+    "EG": {
+        "Ticker": "EG",
+        "LongName": "Everest Group, Ltd.",
+        "ShortName": "Everest Group, Ltd.",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Reinsurance",
+        "Website": "https://www.everestglobal.com"
+    },
+    "EIX": {
+        "Ticker": "EIX",
+        "LongName": "Edison International",
+        "ShortName": "Edison International",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.edison.com"
+    },
+    "EL": {
+        "Ticker": "EL",
+        "LongName": "The Estée Lauder Companies Inc.",
+        "ShortName": "Estee Lauder Companies, Inc. (T",
+        "Sector": "Consumer Defensive",
+        "Industry": "Household & Personal Products",
+        "Website": "https://www.elcompanies.com"
+    },
+    "ELV": {
+        "Ticker": "ELV",
+        "LongName": "Elevance Health, Inc.",
+        "ShortName": "Elevance Health, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Healthcare Plans",
+        "Website": "https://www.elevancehealth.com"
+    },
+    "EME": {
+        "Ticker": "EME",
+        "LongName": "EMCOR Group, Inc.",
+        "ShortName": "EMCOR Group, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Engineering & Construction",
+        "Website": "https://emcorgroup.com"
+    },
+    "EMR": {
+        "Ticker": "EMR",
+        "LongName": "Emerson Electric Co.",
+        "ShortName": "Emerson Electric Company",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.emerson.com"
+    },
+    "EOG": {
+        "Ticker": "EOG",
+        "LongName": "EOG Resources, Inc.",
+        "ShortName": "EOG Resources, Inc.",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas E&P",
+        "Website": "https://www.eogresources.com"
+    },
+    "EPAM": {
+        "Ticker": "EPAM",
+        "LongName": "EPAM Systems, Inc.",
+        "ShortName": "EPAM Systems, Inc.",
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "Website": "https://www.epam.com"
+    },
+    "EQIX": {
+        "Ticker": "EQIX",
+        "LongName": "Equinix, Inc.",
+        "ShortName": "Equinix, Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Specialty",
+        "Website": "https://www.equinix.com"
+    },
+    "EQR": {
+        "Ticker": "EQR",
+        "LongName": "Equity Residential",
+        "ShortName": "Equity Residential",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Residential",
+        "Website": "https://www.equityapartments.com"
+    },
+    "EQT": {
+        "Ticker": "EQT",
+        "LongName": "EQT Corporation",
+        "ShortName": "EQT Corporation",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas E&P",
+        "Website": "https://www.eqt.com"
+    },
+    "ERIE": {
+        "Ticker": "ERIE",
+        "LongName": "Erie Indemnity Company",
+        "ShortName": "Erie Indemnity Company",
+        "Sector": "Financial Services",
+        "Industry": "Insurance Brokers",
+        "Website": "https://www.erieinsurance.com"
+    },
+    "ES": {
+        "Ticker": "ES",
+        "LongName": "Eversource Energy",
+        "ShortName": "Eversource Energy (D/B/A)",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.eversource.com"
+    },
+    "ESS": {
+        "Ticker": "ESS",
+        "LongName": "Essex Property Trust, Inc.",
+        "ShortName": "Essex Property Trust, Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Residential",
+        "Website": "https://www.essexapartmenthomes.com"
+    },
+    "ETN": {
+        "Ticker": "ETN",
+        "LongName": "Eaton Corporation plc",
+        "ShortName": "Eaton Corporation, PLC",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.eaton.com"
+    },
+    "ETR": {
+        "Ticker": "ETR",
+        "LongName": "Entergy Corporation",
+        "ShortName": "Entergy Corporation",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.entergy.com"
+    },
+    "EVRG": {
+        "Ticker": "EVRG",
+        "LongName": "Evergy, Inc.",
+        "ShortName": "Evergy, Inc.",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://investors.evergy.com"
+    },
+    "EW": {
+        "Ticker": "EW",
+        "LongName": "Edwards Lifesciences Corporation",
+        "ShortName": "Edwards Lifesciences Corporatio",
+        "Sector": "Healthcare",
+        "Industry": "Medical Devices",
+        "Website": "https://www.edwards.com"
+    },
+    "EXC": {
+        "Ticker": "EXC",
+        "LongName": "Exelon Corporation",
+        "ShortName": "Exelon Corporation",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.exeloncorp.com"
+    },
+    "EXE": {
+        "Ticker": "EXE",
+        "LongName": "Expand Energy Corporation",
+        "ShortName": "Expand Energy Corporation",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas E&P",
+        "Website": "https://www.expandenergy.com"
+    },
+    "EXPD": {
+        "Ticker": "EXPD",
+        "LongName": "Expeditors International of Washington, Inc.",
+        "ShortName": "Expeditors International of Was",
+        "Sector": "Industrials",
+        "Industry": "Integrated Freight & Logistics",
+        "Website": "https://www.expeditors.com"
+    },
+    "EXPE": {
+        "Ticker": "EXPE",
+        "LongName": "Expedia Group, Inc.",
+        "ShortName": "Expedia Group, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Travel Services",
+        "Website": "https://www.expediagroup.com"
+    },
+    "EXR": {
+        "Ticker": "EXR",
+        "LongName": "Extra Space Storage Inc.",
+        "ShortName": "Extra Space Storage Inc",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Industrial",
+        "Website": "https://www.extraspace.com"
+    },
+    "F": {
+        "Ticker": "F",
+        "LongName": "Ford Motor Company",
+        "ShortName": "Ford Motor Company",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Manufacturers",
+        "Website": "https://www.ford.com"
+    },
+    "FANG": {
+        "Ticker": "FANG",
+        "LongName": "Diamondback Energy, Inc.",
+        "ShortName": "Diamondback Energy, Inc.",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas E&P",
+        "Website": "https://www.diamondbackenergy.com"
+    },
+    "FAST": {
+        "Ticker": "FAST",
+        "LongName": "Fastenal Company",
+        "ShortName": "Fastenal Company",
+        "Sector": "Industrials",
+        "Industry": "Industrial Distribution",
+        "Website": "https://www.fastenal.com"
+    },
+    "FCX": {
+        "Ticker": "FCX",
+        "LongName": "Freeport-McMoRan Inc.",
+        "ShortName": "Freeport-McMoRan, Inc.",
+        "Sector": "Basic Materials",
+        "Industry": "Copper",
+        "Website": "https://fcx.com"
+    },
+    "FDS": {
+        "Ticker": "FDS",
+        "LongName": "FactSet Research Systems Inc.",
+        "ShortName": "FactSet Research Systems Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Financial Data & Stock Exchanges",
+        "Website": "https://www.factset.com"
+    },
+    "FDX": {
+        "Ticker": "FDX",
+        "LongName": "FedEx Corporation",
+        "ShortName": "FedEx Corporation",
+        "Sector": "Industrials",
+        "Industry": "Integrated Freight & Logistics",
+        "Website": "https://www.fedex.com"
+    },
+    "FE": {
+        "Ticker": "FE",
+        "LongName": "FirstEnergy Corp.",
+        "ShortName": "FirstEnergy Corp.",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.firstenergycorp.com"
+    },
+    "FFIV": {
+        "Ticker": "FFIV",
+        "LongName": "F5, Inc.",
+        "ShortName": "F5, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.f5.com"
+    },
+    "FICO": {
+        "Ticker": "FICO",
+        "LongName": "Fair Isaac Corporation",
+        "ShortName": "Fair Isaac Corporation",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.fico.com"
+    },
+    "FIS": {
+        "Ticker": "FIS",
+        "LongName": "Fidelity National Information Services, Inc.",
+        "ShortName": "Fidelity National Information S",
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "Website": "https://www.fisglobal.com"
+    },
+    "FISV": {
+        "Ticker": "FISV",
+        "LongName": "Fiserv, Inc.",
+        "ShortName": "Fiserv, Inc.",
+        "Sector": "Unknown",
+        "Industry": "Unknown",
+        "Website": "N/A"
+    },
+    "FITB": {
+        "Ticker": "FITB",
+        "LongName": "Fifth Third Bancorp",
+        "ShortName": "Fifth Third Bancorp",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.53.com"
+    },
+    "FIX": {
+        "Ticker": "FIX",
+        "LongName": "Comfort Systems USA, Inc.",
+        "ShortName": "Comfort Systems USA, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Engineering & Construction",
+        "Website": "https://comfortsystemsusa.com"
+    },
+    "FOX": {
+        "Ticker": "FOX",
+        "LongName": "Fox Corporation",
+        "ShortName": "Fox Corporation",
+        "Sector": "Communication Services",
+        "Industry": "Entertainment",
+        "Website": "https://www.foxcorporation.com"
+    },
+    "FOXA": {
+        "Ticker": "FOXA",
+        "LongName": "Fox Corporation",
+        "ShortName": "Fox Corporation",
+        "Sector": "Communication Services",
+        "Industry": "Entertainment",
+        "Website": "https://www.foxcorporation.com"
+    },
+    "FRT": {
+        "Ticker": "FRT",
+        "LongName": "Federal Realty Investment Trust",
+        "ShortName": "Federal Realty Investment Trust",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Retail",
+        "Website": "https://www.federalrealty.com"
+    },
+    "FSLR": {
+        "Ticker": "FSLR",
+        "LongName": "First Solar, Inc.",
+        "ShortName": "First Solar, Inc.",
+        "Sector": "Technology",
+        "Industry": "Solar",
+        "Website": "https://www.firstsolar.com"
+    },
+    "FTNT": {
+        "Ticker": "FTNT",
+        "LongName": "Fortinet, Inc.",
+        "ShortName": "Fortinet, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.fortinet.com"
+    },
+    "FTV": {
+        "Ticker": "FTV",
+        "LongName": "Fortive Corporation",
+        "ShortName": "Fortive Corporation",
+        "Sector": "Technology",
+        "Industry": "Scientific & Technical Instruments",
+        "Website": "https://www.fortive.com"
+    },
+    "GD": {
+        "Ticker": "GD",
+        "LongName": "General Dynamics Corporation",
+        "ShortName": "General Dynamics Corporation",
+        "Sector": "Industrials",
+        "Industry": "Aerospace & Defense",
+        "Website": "https://www.gd.com"
+    },
+    "GDDY": {
+        "Ticker": "GDDY",
+        "LongName": "GoDaddy Inc.",
+        "ShortName": "GoDaddy Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.godaddy.com"
+    },
+    "GE": {
+        "Ticker": "GE",
+        "LongName": "GE Aerospace",
+        "ShortName": "GE Aerospace",
+        "Sector": "Industrials",
+        "Industry": "Aerospace & Defense",
+        "Website": "https://www.geaerospace.com"
+    },
+    "GEHC": {
+        "Ticker": "GEHC",
+        "LongName": "GE HealthCare Technologies Inc.",
+        "ShortName": "GE HealthCare Technologies Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Devices",
+        "Website": "https://www.gehealthcare.com"
+    },
+    "GEN": {
+        "Ticker": "GEN",
+        "LongName": "Gen Digital Inc.",
+        "ShortName": "Gen Digital Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.gendigital.com"
+    },
+    "GEV": {
+        "Ticker": "GEV",
+        "LongName": "GE Vernova Inc.",
+        "ShortName": "GE Vernova Inc.",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.gevernova.com"
+    },
+    "GILD": {
+        "Ticker": "GILD",
+        "LongName": "Gilead Sciences, Inc.",
+        "ShortName": "Gilead Sciences, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - General",
+        "Website": "https://www.gilead.com"
+    },
+    "GIS": {
+        "Ticker": "GIS",
+        "LongName": "General Mills, Inc.",
+        "ShortName": "General Mills, Inc.",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.generalmills.com"
+    },
+    "GL": {
+        "Ticker": "GL",
+        "LongName": "Globe Life Inc.",
+        "ShortName": "Globe Life Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Life",
+        "Website": "https://home.globelifeinsurance.com"
+    },
+    "GLW": {
+        "Ticker": "GLW",
+        "LongName": "Corning Incorporated",
+        "ShortName": "Corning Incorporated",
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "Website": "https://www.corning.com"
+    },
+    "GM": {
+        "Ticker": "GM",
+        "LongName": "General Motors Company",
+        "ShortName": "General Motors Company",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Manufacturers",
+        "Website": "https://www.gm.com"
+    },
+    "GNRC": {
+        "Ticker": "GNRC",
+        "LongName": "Generac Holdings Inc.",
+        "ShortName": "Generac Holdlings Inc.",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.generac.com"
+    },
+    "GOOG": {
+        "Ticker": "GOOG",
+        "LongName": "Alphabet Inc.",
+        "ShortName": "Alphabet Inc.",
+        "Sector": "Communication Services",
+        "Industry": "Internet Content & Information",
+        "Website": "https://abc.xyz"
+    },
+    "GOOGL": {
+        "Ticker": "GOOGL",
+        "LongName": "Alphabet Inc.",
+        "ShortName": "Alphabet Inc.",
+        "Sector": "Communication Services",
+        "Industry": "Internet Content & Information",
+        "Website": "https://abc.xyz"
+    },
+    "GPC": {
+        "Ticker": "GPC",
+        "LongName": "Genuine Parts Company",
+        "ShortName": "Genuine Parts Company",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Parts",
+        "Website": "https://www.genpt.com"
+    },
+    "GPN": {
+        "Ticker": "GPN",
+        "LongName": "Global Payments Inc.",
+        "ShortName": "Global Payments Inc.",
+        "Sector": "Industrials",
+        "Industry": "Specialty Business Services",
+        "Website": "https://www.globalpayments.com/en-ap"
+    },
+    "GRMN": {
+        "Ticker": "GRMN",
+        "LongName": "Garmin Ltd.",
+        "ShortName": "Garmin Ltd.",
+        "Sector": "Technology",
+        "Industry": "Scientific & Technical Instruments",
+        "Website": "https://www.garmin.com"
+    },
+    "GS": {
+        "Ticker": "GS",
+        "LongName": "The Goldman Sachs Group, Inc.",
+        "ShortName": "Goldman Sachs Group, Inc. (The)",
+        "Sector": "Financial Services",
+        "Industry": "Capital Markets",
+        "Website": "https://www.goldmansachs.com"
+    },
+    "GWW": {
+        "Ticker": "GWW",
+        "LongName": "W.W. Grainger, Inc.",
+        "ShortName": "W.W. Grainger, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Industrial Distribution",
+        "Website": "https://www.grainger.com"
+    },
+    "HAL": {
+        "Ticker": "HAL",
+        "LongName": "Halliburton Company",
+        "ShortName": "Halliburton Company",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Equipment & Services",
+        "Website": "https://www.halliburton.com"
+    },
+    "HAS": {
+        "Ticker": "HAS",
+        "LongName": "Hasbro, Inc.",
+        "ShortName": "Hasbro, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Leisure",
+        "Website": "https://corporate.hasbro.com"
+    },
+    "HBAN": {
+        "Ticker": "HBAN",
+        "LongName": "Huntington Bancshares Incorporated",
+        "ShortName": "Huntington Bancshares Incorpora",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.huntington.com"
+    },
+    "HCA": {
+        "Ticker": "HCA",
+        "LongName": "HCA Healthcare, Inc.",
+        "ShortName": "HCA Healthcare, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Care Facilities",
+        "Website": "https://www.hcahealthcare.com"
+    },
+    "HD": {
+        "Ticker": "HD",
+        "LongName": "The Home Depot, Inc.",
+        "ShortName": "Home Depot, Inc. (The)",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Home Improvement Retail",
+        "Website": "https://www.homedepot.com"
+    },
+    "HIG": {
+        "Ticker": "HIG",
+        "LongName": "The Hartford Insurance Group, Inc.",
+        "ShortName": "The Hartford Insurance Group, I",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Diversified",
+        "Website": "https://www.thehartford.com"
+    },
+    "HII": {
+        "Ticker": "HII",
+        "LongName": "Huntington Ingalls Industries, Inc.",
+        "ShortName": "Huntington Ingalls Industries, ",
+        "Sector": "Industrials",
+        "Industry": "Aerospace & Defense",
+        "Website": "https://www.hii.com"
+    },
+    "HLT": {
+        "Ticker": "HLT",
+        "LongName": "Hilton Worldwide Holdings Inc.",
+        "ShortName": "Hilton Worldwide Holdings Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Lodging",
+        "Website": "https://www.hilton.com"
+    },
+    "HON": {
+        "Ticker": "HON",
+        "LongName": "Honeywell International Inc.",
+        "ShortName": "Honeywell International Inc.",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.honeywell.com"
+    },
+    "HOOD": {
+        "Ticker": "HOOD",
+        "LongName": "Robinhood Markets, Inc.",
+        "ShortName": "Robinhood Markets, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Capital Markets",
+        "Website": "https://robinhood.com"
+    },
+    "HPE": {
+        "Ticker": "HPE",
+        "LongName": "Hewlett Packard Enterprise Company",
+        "ShortName": "Hewlett Packard Enterprise Comp",
+        "Sector": "Technology",
+        "Industry": "Communication Equipment",
+        "Website": "https://www.hpe.com"
+    },
+    "HPQ": {
+        "Ticker": "HPQ",
+        "LongName": "HP Inc.",
+        "ShortName": "HP Inc.",
+        "Sector": "Technology",
+        "Industry": "Computer Hardware",
+        "Website": "https://www.hp.com"
+    },
+    "HRL": {
+        "Ticker": "HRL",
+        "LongName": "Hormel Foods Corporation",
+        "ShortName": "Hormel Foods Corporation",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.hormelfoods.com"
+    },
+    "HSIC": {
+        "Ticker": "HSIC",
+        "LongName": "Henry Schein, Inc.",
+        "ShortName": "Henry Schein, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Distribution",
+        "Website": "https://www.henryschein.com"
+    },
+    "HST": {
+        "Ticker": "HST",
+        "LongName": "Host Hotels & Resorts, Inc.",
+        "ShortName": "Host Hotels & Resorts, Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Hotel & Motel",
+        "Website": "https://www.hosthotels.com"
+    },
+    "HSY": {
+        "Ticker": "HSY",
+        "LongName": "The Hershey Company",
+        "ShortName": "The Hershey Company",
+        "Sector": "Consumer Defensive",
+        "Industry": "Confectioners",
+        "Website": "https://www.thehersheycompany.com"
+    },
+    "HUBB": {
+        "Ticker": "HUBB",
+        "LongName": "Hubbell Incorporated",
+        "ShortName": "Hubbell Inc",
+        "Sector": "Industrials",
+        "Industry": "Electrical Equipment & Parts",
+        "Website": "https://www.hubbell.com"
+    },
+    "HUM": {
+        "Ticker": "HUM",
+        "LongName": "Humana Inc.",
+        "ShortName": "Humana Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Healthcare Plans",
+        "Website": "https://www.humana.com"
+    },
+    "HWM": {
+        "Ticker": "HWM",
+        "LongName": "Howmet Aerospace Inc.",
+        "ShortName": "Howmet Aerospace Inc.",
+        "Sector": "Industrials",
+        "Industry": "Aerospace & Defense",
+        "Website": "https://www.howmet.com"
+    },
+    "IBKR": {
+        "Ticker": "IBKR",
+        "LongName": "Interactive Brokers Group, Inc.",
+        "ShortName": "Interactive Brokers Group, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Capital Markets",
+        "Website": "https://www.interactivebrokers.com"
+    },
+    "IBM": {
+        "Ticker": "IBM",
+        "LongName": "International Business Machines Corporation",
+        "ShortName": "International Business Machines",
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "Website": "https://www.ibm.com"
+    },
+    "ICE": {
+        "Ticker": "ICE",
+        "LongName": "Intercontinental Exchange, Inc.",
+        "ShortName": "Intercontinental Exchange Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Financial Data & Stock Exchanges",
+        "Website": "https://www.ice.com"
+    },
+    "IDXX": {
+        "Ticker": "IDXX",
+        "LongName": "IDEXX Laboratories, Inc.",
+        "ShortName": "IDEXX Laboratories, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Diagnostics & Research",
+        "Website": "https://www.idexx.com"
+    },
+    "IEX": {
+        "Ticker": "IEX",
+        "LongName": "IDEX Corporation",
+        "ShortName": "IDEX Corporation",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.idexcorp.com"
+    },
+    "IFF": {
+        "Ticker": "IFF",
+        "LongName": "International Flavors & Fragrances Inc.",
+        "ShortName": "International Flavors & Fragran",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.iff.com"
+    },
+    "INCY": {
+        "Ticker": "INCY",
+        "LongName": "Incyte Corporation",
+        "ShortName": "Incyte Corporation",
+        "Sector": "Healthcare",
+        "Industry": "Biotechnology",
+        "Website": "https://www.incyte.com"
+    },
+    "INTC": {
+        "Ticker": "INTC",
+        "LongName": "Intel Corporation",
+        "ShortName": "Intel Corporation",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.intel.com"
+    },
+    "INTU": {
+        "Ticker": "INTU",
+        "LongName": "Intuit Inc.",
+        "ShortName": "Intuit Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.intuit.com"
+    },
+    "INVH": {
+        "Ticker": "INVH",
+        "LongName": "Invitation Homes Inc.",
+        "ShortName": "Invitation Homes Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Residential",
+        "Website": "https://www.invitationhomes.com"
+    },
+    "IP": {
+        "Ticker": "IP",
+        "LongName": "International Paper Company",
+        "ShortName": "International Paper Company",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Packaging & Containers",
+        "Website": "https://www.internationalpaper.com"
+    },
+    "IQV": {
+        "Ticker": "IQV",
+        "LongName": "IQVIA Holdings Inc.",
+        "ShortName": "IQVIA Holdings, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Diagnostics & Research",
+        "Website": "https://www.iqvia.com"
+    },
+    "IR": {
+        "Ticker": "IR",
+        "LongName": "Ingersoll Rand Inc.",
+        "ShortName": "Ingersoll Rand Inc.",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.irco.com"
+    },
+    "IRM": {
+        "Ticker": "IRM",
+        "LongName": "Iron Mountain Incorporated",
+        "ShortName": "Iron Mountain Incorporated (Del",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Specialty",
+        "Website": "https://www.ironmountain.com"
+    },
+    "ISRG": {
+        "Ticker": "ISRG",
+        "LongName": "Intuitive Surgical, Inc.",
+        "ShortName": "Intuitive Surgical, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Instruments & Supplies",
+        "Website": "https://www.intuitive.com"
+    },
+    "IT": {
+        "Ticker": "IT",
+        "LongName": "Gartner, Inc.",
+        "ShortName": "Gartner, Inc.",
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "Website": "https://www.gartner.com"
+    },
+    "ITW": {
+        "Ticker": "ITW",
+        "LongName": "Illinois Tool Works Inc.",
+        "ShortName": "Illinois Tool Works Inc.",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.itw.com"
+    },
+    "IVZ": {
+        "Ticker": "IVZ",
+        "LongName": "Invesco Ltd.",
+        "ShortName": "Invesco Ltd",
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "Website": "https://www.invesco.com/corporate/en/home.html"
+    },
+    "J": {
+        "Ticker": "J",
+        "LongName": "Jacobs Solutions Inc.",
+        "ShortName": "Jacobs Solutions Inc.",
+        "Sector": "Industrials",
+        "Industry": "Engineering & Construction",
+        "Website": "https://www.jacobs.com"
+    },
+    "JBHT": {
+        "Ticker": "JBHT",
+        "LongName": "J.B. Hunt Transport Services, Inc.",
+        "ShortName": "J.B. Hunt Transport Services, I",
+        "Sector": "Industrials",
+        "Industry": "Integrated Freight & Logistics",
+        "Website": "https://www.jbhunt.com"
+    },
+    "JBL": {
+        "Ticker": "JBL",
+        "LongName": "Jabil Inc.",
+        "ShortName": "Jabil Inc.",
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "Website": "https://www.jabil.com"
+    },
+    "JCI": {
+        "Ticker": "JCI",
+        "LongName": "Johnson Controls International plc",
+        "ShortName": "Johnson Controls International ",
+        "Sector": "Industrials",
+        "Industry": "Building Products & Equipment",
+        "Website": "https://www.johnsoncontrols.com"
+    },
+    "JKHY": {
+        "Ticker": "JKHY",
+        "LongName": "Jack Henry & Associates, Inc.",
+        "ShortName": "Jack Henry & Associates, Inc.",
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "Website": "https://www.jackhenry.com"
+    },
+    "JNJ": {
+        "Ticker": "JNJ",
+        "LongName": "Johnson & Johnson",
+        "ShortName": "Johnson & Johnson",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - General",
+        "Website": "https://www.jnj.com"
+    },
+    "JPM": {
+        "Ticker": "JPM",
+        "LongName": "JPMorgan Chase & Co.",
+        "ShortName": "JP Morgan Chase & Co.",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Diversified",
+        "Website": "https://www.jpmorganchase.com"
+    },
+    "KDP": {
+        "Ticker": "KDP",
+        "LongName": "Keurig Dr Pepper Inc.",
+        "ShortName": "Keurig Dr Pepper Inc.",
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages - Non-Alcoholic",
+        "Website": "https://www.keurigdrpepper.com"
+    },
+    "KEY": {
+        "Ticker": "KEY",
+        "LongName": "KeyCorp",
+        "ShortName": "KeyCorp",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.key.com"
+    },
+    "KEYS": {
+        "Ticker": "KEYS",
+        "LongName": "Keysight Technologies, Inc.",
+        "ShortName": "Keysight Technologies Inc.",
+        "Sector": "Technology",
+        "Industry": "Scientific & Technical Instruments",
+        "Website": "https://www.keysight.com"
+    },
+    "KHC": {
+        "Ticker": "KHC",
+        "LongName": "The Kraft Heinz Company",
+        "ShortName": "The Kraft Heinz Company",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.kraftheinzcompany.com"
+    },
+    "KIM": {
+        "Ticker": "KIM",
+        "LongName": "Kimco Realty Corporation",
+        "ShortName": "Kimco Realty Corporation (HC)",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Retail",
+        "Website": "https://www.kimcorealty.com"
+    },
+    "KKR": {
+        "Ticker": "KKR",
+        "LongName": "KKR & Co. Inc.",
+        "ShortName": "KKR & Co. Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "Website": "https://www.kkr.com"
+    },
+    "KLAC": {
+        "Ticker": "KLAC",
+        "LongName": "KLA Corporation",
+        "ShortName": "KLA Corporation",
+        "Sector": "Technology",
+        "Industry": "Semiconductor Equipment & Materials",
+        "Website": "https://www.kla.com"
+    },
+    "KMB": {
+        "Ticker": "KMB",
+        "LongName": "Kimberly-Clark Corporation",
+        "ShortName": "Kimberly-Clark Corporation",
+        "Sector": "Consumer Defensive",
+        "Industry": "Household & Personal Products",
+        "Website": "https://www.kimberly-clark.com"
+    },
+    "KMI": {
+        "Ticker": "KMI",
+        "LongName": "Kinder Morgan, Inc.",
+        "ShortName": "Kinder Morgan, Inc.",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Midstream",
+        "Website": "https://www.kindermorgan.com"
+    },
+    "KO": {
+        "Ticker": "KO",
+        "LongName": "The Coca-Cola Company",
+        "ShortName": "Coca-Cola Company (The)",
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages - Non-Alcoholic",
+        "Website": "https://www.coca-colacompany.com"
+    },
+    "KR": {
+        "Ticker": "KR",
+        "LongName": "The Kroger Co.",
+        "ShortName": "Kroger Company (The)",
+        "Sector": "Consumer Defensive",
+        "Industry": "Grocery Stores",
+        "Website": "https://www.thekrogerco.com"
+    },
+    "KVUE": {
+        "Ticker": "KVUE",
+        "LongName": "Kenvue Inc.",
+        "ShortName": "Kenvue Inc.",
+        "Sector": "Consumer Defensive",
+        "Industry": "Household & Personal Products",
+        "Website": "https://www.kenvue.com"
+    },
+    "L": {
+        "Ticker": "L",
+        "LongName": "Loews Corporation",
+        "ShortName": "Loews Corporation",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Property & Casualty",
+        "Website": "https://www.loews.com"
+    },
+    "LDOS": {
+        "Ticker": "LDOS",
+        "LongName": "Leidos Holdings, Inc.",
+        "ShortName": "Leidos Holdings, Inc.",
+        "Sector": "Technology",
+        "Industry": "Information Technology Services",
+        "Website": "https://www.leidos.com"
+    },
+    "LEN": {
+        "Ticker": "LEN",
+        "LongName": "Lennar Corporation",
+        "ShortName": "Lennar Corporation",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Residential Construction",
+        "Website": "https://www.lennar.com"
+    },
+    "LH": {
+        "Ticker": "LH",
+        "LongName": "Labcorp Holdings Inc.",
+        "ShortName": "Labcorp Holdings Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Diagnostics & Research",
+        "Website": "https://www.labcorp.com"
+    },
+    "LHX": {
+        "Ticker": "LHX",
+        "LongName": "L3Harris Technologies, Inc.",
+        "ShortName": "L3Harris Technologies, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Aerospace & Defense",
+        "Website": "https://www.l3harris.com"
+    },
+    "LII": {
+        "Ticker": "LII",
+        "LongName": "Lennox International Inc.",
+        "ShortName": "Lennox International, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Building Products & Equipment",
+        "Website": "https://www.lennox.com"
+    },
+    "LIN": {
+        "Ticker": "LIN",
+        "LongName": "Linde plc",
+        "ShortName": "Linde plc",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.linde.com"
+    },
+    "LITE": {
+        "Ticker": "LITE",
+        "LongName": "Lumentum Holdings Inc.",
+        "ShortName": "Lumentum Holdings Inc.",
+        "Sector": "Technology",
+        "Industry": "Communication Equipment",
+        "Website": "https://www.lumentum.com"
+    },
+    "LLY": {
+        "Ticker": "LLY",
+        "LongName": "Eli Lilly and Company",
+        "ShortName": "Eli Lilly and Company",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - General",
+        "Website": "https://www.lilly.com"
+    },
+    "LMT": {
+        "Ticker": "LMT",
+        "LongName": "Lockheed Martin Corporation",
+        "ShortName": "Lockheed Martin Corporation",
+        "Sector": "Industrials",
+        "Industry": "Aerospace & Defense",
+        "Website": "https://www.lockheedmartin.com"
+    },
+    "LNT": {
+        "Ticker": "LNT",
+        "LongName": "Alliant Energy Corporation",
+        "ShortName": "Alliant Energy Corporation",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.alliantenergy.com"
+    },
+    "LOW": {
+        "Ticker": "LOW",
+        "LongName": "Lowe's Companies, Inc.",
+        "ShortName": "Lowe's Companies, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Home Improvement Retail",
+        "Website": "https://corporate.lowes.com"
+    },
+    "LRCX": {
+        "Ticker": "LRCX",
+        "LongName": "Lam Research Corporation",
+        "ShortName": "Lam Research Corporation",
+        "Sector": "Technology",
+        "Industry": "Semiconductor Equipment & Materials",
+        "Website": "https://www.lamresearch.com"
+    },
+    "LULU": {
+        "Ticker": "LULU",
+        "LongName": "lululemon athletica inc.",
+        "ShortName": "lululemon athletica inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Apparel Retail",
+        "Website": "https://corporate.lululemon.com"
+    },
+    "LUV": {
+        "Ticker": "LUV",
+        "LongName": "Southwest Airlines Co.",
+        "ShortName": "Southwest Airlines Company",
+        "Sector": "Industrials",
+        "Industry": "Airlines",
+        "Website": "https://www.southwest.com"
+    },
+    "LVS": {
+        "Ticker": "LVS",
+        "LongName": "Las Vegas Sands Corp.",
+        "ShortName": "Las Vegas Sands Corp.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Resorts & Casinos",
+        "Website": "https://www.sands.com"
+    },
+    "LYB": {
+        "Ticker": "LYB",
+        "LongName": "LyondellBasell Industries N.V.",
+        "ShortName": "LyondellBasell Industries NV",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.lyondellbasell.com"
+    },
+    "LYV": {
+        "Ticker": "LYV",
+        "LongName": "Live Nation Entertainment, Inc.",
+        "ShortName": "Live Nation Entertainment, Inc.",
+        "Sector": "Communication Services",
+        "Industry": "Entertainment",
+        "Website": "https://www.livenationentertainment.com"
+    },
+    "MA": {
+        "Ticker": "MA",
+        "LongName": "Mastercard Incorporated",
+        "ShortName": "Mastercard Incorporated",
+        "Sector": "Financial Services",
+        "Industry": "Credit Services",
+        "Website": "https://www.mastercard.com"
+    },
+    "MAA": {
+        "Ticker": "MAA",
+        "LongName": "Mid-America Apartment Communities, Inc.",
+        "ShortName": "Mid-America Apartment Communiti",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Residential",
+        "Website": "https://www.maac.com"
+    },
+    "MAR": {
+        "Ticker": "MAR",
+        "LongName": "Marriott International, Inc.",
+        "ShortName": "Marriott International",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Lodging",
+        "Website": "https://www.marriott.com"
+    },
+    "MAS": {
+        "Ticker": "MAS",
+        "LongName": "Masco Corporation",
+        "ShortName": "Masco Corporation",
+        "Sector": "Industrials",
+        "Industry": "Building Products & Equipment",
+        "Website": "https://masco.com"
+    },
+    "MCD": {
+        "Ticker": "MCD",
+        "LongName": "McDonald's Corporation",
+        "ShortName": "McDonald's Corporation",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Restaurants",
+        "Website": "https://www.mcdonalds.com"
+    },
+    "MCHP": {
+        "Ticker": "MCHP",
+        "LongName": "Microchip Technology Incorporated",
+        "ShortName": "Microchip Technology Incorporat",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.microchip.com"
+    },
+    "MCK": {
+        "Ticker": "MCK",
+        "LongName": "McKesson Corporation",
+        "ShortName": "McKesson Corporation",
+        "Sector": "Healthcare",
+        "Industry": "Medical Distribution",
+        "Website": "https://www.mckesson.com"
+    },
+    "MCO": {
+        "Ticker": "MCO",
+        "LongName": "Moody's Corporation",
+        "ShortName": "Moody's Corporation",
+        "Sector": "Financial Services",
+        "Industry": "Financial Data & Stock Exchanges",
+        "Website": "https://www.moodys.com"
+    },
+    "MDLZ": {
+        "Ticker": "MDLZ",
+        "LongName": "Mondelez International, Inc.",
+        "ShortName": "Mondelez International, Inc.",
+        "Sector": "Consumer Defensive",
+        "Industry": "Confectioners",
+        "Website": "https://www.mondelezinternational.com"
+    },
+    "MDT": {
+        "Ticker": "MDT",
+        "LongName": "Medtronic plc",
+        "ShortName": "Medtronic plc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Devices",
+        "Website": "https://www.medtronic.com"
+    },
+    "MET": {
+        "Ticker": "MET",
+        "LongName": "MetLife, Inc.",
+        "ShortName": "MetLife, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Life",
+        "Website": "https://www.metlife.com"
+    },
+    "META": {
+        "Ticker": "META",
+        "LongName": "Meta Platforms, Inc.",
+        "ShortName": "Meta Platforms, Inc.",
+        "Sector": "Communication Services",
+        "Industry": "Internet Content & Information",
+        "Website": "https://www.meta.com"
+    },
+    "MGM": {
+        "Ticker": "MGM",
+        "LongName": "MGM Resorts International",
+        "ShortName": "MGM Resorts International",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Resorts & Casinos",
+        "Website": "https://www.mgmresorts.com"
+    },
+    "MKC": {
+        "Ticker": "MKC",
+        "LongName": "McCormick & Company, Incorporated",
+        "ShortName": "McCormick & Company, Incorporat",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.mccormickcorporation.com"
+    },
+    "MLM": {
+        "Ticker": "MLM",
+        "LongName": "Martin Marietta Materials, Inc.",
+        "ShortName": "Martin Marietta Materials, Inc.",
+        "Sector": "Basic Materials",
+        "Industry": "Building Materials",
+        "Website": "https://www.martinmarietta.com"
+    },
+    "MMM": {
+        "Ticker": "MMM",
+        "LongName": "3M Company",
+        "ShortName": "3M Company",
+        "Sector": "Industrials",
+        "Industry": "Conglomerates",
+        "Website": "https://www.3m.com"
+    },
+    "MNST": {
+        "Ticker": "MNST",
+        "LongName": "Monster Beverage Corporation",
+        "ShortName": "Monster Beverage Corporation",
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages - Non-Alcoholic",
+        "Website": "https://www.monsterbevcorp.com"
+    },
+    "MO": {
+        "Ticker": "MO",
+        "LongName": "Altria Group, Inc.",
+        "ShortName": "Altria Group, Inc.",
+        "Sector": "Consumer Defensive",
+        "Industry": "Tobacco",
+        "Website": "https://www.altria.com"
+    },
+    "MOS": {
+        "Ticker": "MOS",
+        "LongName": "The Mosaic Company",
+        "ShortName": "Mosaic Company (The)",
+        "Sector": "Basic Materials",
+        "Industry": "Agricultural Inputs",
+        "Website": "https://www.mosaicco.com"
+    },
+    "MPC": {
+        "Ticker": "MPC",
+        "LongName": "Marathon Petroleum Corporation",
+        "ShortName": "Marathon Petroleum Corporation",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Refining & Marketing",
+        "Website": "https://www.marathonpetroleum.com"
+    },
+    "MPWR": {
+        "Ticker": "MPWR",
+        "LongName": "Monolithic Power Systems, Inc.",
+        "ShortName": "Monolithic Power Systems, Inc.",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.monolithicpower.com"
+    },
+    "MRK": {
+        "Ticker": "MRK",
+        "LongName": "Merck & Co., Inc.",
+        "ShortName": "Merck & Company, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - General",
+        "Website": "https://www.merck.com"
+    },
+    "MRNA": {
+        "Ticker": "MRNA",
+        "LongName": "Moderna, Inc.",
+        "ShortName": "Moderna, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Biotechnology",
+        "Website": "https://www.modernatx.com"
+    },
+    "MRSH": {
+        "Ticker": "MRSH",
+        "LongName": "Marsh & McLennan Companies, Inc.",
+        "ShortName": "Marsh",
+        "Sector": "Financial Services",
+        "Industry": "Insurance Brokers",
+        "Website": "https://www.corporate.marsh.com/global/home.html"
+    },
+    "MS": {
+        "Ticker": "MS",
+        "LongName": "Morgan Stanley",
+        "ShortName": "Morgan Stanley",
+        "Sector": "Financial Services",
+        "Industry": "Capital Markets",
+        "Website": "https://www.morganstanley.com"
+    },
+    "MSCI": {
+        "Ticker": "MSCI",
+        "LongName": "MSCI Inc.",
+        "ShortName": "MSCI Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Financial Data & Stock Exchanges",
+        "Website": "https://www.msci.com"
+    },
+    "MSFT": {
+        "Ticker": "MSFT",
+        "LongName": "Microsoft Corporation",
+        "ShortName": "Microsoft Corporation",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.microsoft.com"
+    },
+    "MSI": {
+        "Ticker": "MSI",
+        "LongName": "Motorola Solutions, Inc.",
+        "ShortName": "Motorola Solutions, Inc.",
+        "Sector": "Technology",
+        "Industry": "Communication Equipment",
+        "Website": "https://www.motorolasolutions.com"
+    },
+    "MTB": {
+        "Ticker": "MTB",
+        "LongName": "M&T Bank Corporation",
+        "ShortName": "M&T Bank Corporation",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.mtb.com"
+    },
+    "MTD": {
+        "Ticker": "MTD",
+        "LongName": "Mettler-Toledo International Inc.",
+        "ShortName": "Mettler-Toledo International, I",
+        "Sector": "Healthcare",
+        "Industry": "Diagnostics & Research",
+        "Website": "https://www.mt.com"
+    },
+    "MU": {
+        "Ticker": "MU",
+        "LongName": "Micron Technology, Inc.",
+        "ShortName": "Micron Technology, Inc.",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.micron.com"
+    },
+    "NCLH": {
+        "Ticker": "NCLH",
+        "LongName": "Norwegian Cruise Line Holdings Ltd.",
+        "ShortName": "Norwegian Cruise Line Holdings ",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Travel Services",
+        "Website": "https://www.nclhltd.com"
+    },
+    "NDAQ": {
+        "Ticker": "NDAQ",
+        "LongName": "Nasdaq, Inc.",
+        "ShortName": "Nasdaq, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Financial Data & Stock Exchanges",
+        "Website": "https://www.nasdaq.com"
+    },
+    "NDSN": {
+        "Ticker": "NDSN",
+        "LongName": "Nordson Corporation",
+        "ShortName": "Nordson Corporation",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.nordson.com"
+    },
+    "NEE": {
+        "Ticker": "NEE",
+        "LongName": "NextEra Energy, Inc.",
+        "ShortName": "NextEra Energy, Inc.",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.nexteraenergy.com"
+    },
+    "NEM": {
+        "Ticker": "NEM",
+        "LongName": "Newmont Corporation",
+        "ShortName": "Newmont Corporation",
+        "Sector": "Basic Materials",
+        "Industry": "Gold",
+        "Website": "https://www.newmont.com"
+    },
+    "NFLX": {
+        "Ticker": "NFLX",
+        "LongName": "Netflix, Inc.",
+        "ShortName": "Netflix, Inc.",
+        "Sector": "Communication Services",
+        "Industry": "Entertainment",
+        "Website": "https://www.netflix.com"
+    },
+    "NI": {
+        "Ticker": "NI",
+        "LongName": "NiSource Inc.",
+        "ShortName": "NiSource Inc",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Gas",
+        "Website": "https://www.nisource.com"
+    },
+    "NKE": {
+        "Ticker": "NKE",
+        "LongName": "NIKE, Inc.",
+        "ShortName": "Nike, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Footwear & Accessories",
+        "Website": "https://www.nike.com"
+    },
+    "NOC": {
+        "Ticker": "NOC",
+        "LongName": "Northrop Grumman Corporation",
+        "ShortName": "Northrop Grumman Corporation",
+        "Sector": "Industrials",
+        "Industry": "Aerospace & Defense",
+        "Website": "https://www.northropgrumman.com"
+    },
+    "NOW": {
+        "Ticker": "NOW",
+        "LongName": "ServiceNow, Inc.",
+        "ShortName": "ServiceNow, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.servicenow.com"
+    },
+    "NRG": {
+        "Ticker": "NRG",
+        "LongName": "NRG Energy, Inc.",
+        "ShortName": "NRG Energy, Inc.",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Independent Power Producers",
+        "Website": "https://www.nrg.com"
+    },
+    "NSC": {
+        "Ticker": "NSC",
+        "LongName": "Norfolk Southern Corporation",
+        "ShortName": "Norfolk Southern Corporation",
+        "Sector": "Industrials",
+        "Industry": "Railroads",
+        "Website": "https://www.norfolksouthern.com"
+    },
+    "NTAP": {
+        "Ticker": "NTAP",
+        "LongName": "NetApp, Inc.",
+        "ShortName": "NetApp, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.netapp.com"
+    },
+    "NTRS": {
+        "Ticker": "NTRS",
+        "LongName": "Northern Trust Corporation",
+        "ShortName": "Northern Trust Corporation",
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "Website": "https://www.northerntrust.com"
+    },
+    "NUE": {
+        "Ticker": "NUE",
+        "LongName": "Nucor Corporation",
+        "ShortName": "Nucor Corporation",
+        "Sector": "Basic Materials",
+        "Industry": "Steel",
+        "Website": "https://www.nucor.com"
+    },
+    "NVDA": {
+        "Ticker": "NVDA",
+        "LongName": "NVIDIA Corporation",
+        "ShortName": "NVIDIA Corporation",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.nvidia.com"
+    },
+    "NVR": {
+        "Ticker": "NVR",
+        "LongName": "NVR, Inc.",
+        "ShortName": "NVR, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Residential Construction",
+        "Website": "https://www.nvrinc.com"
+    },
+    "NWS": {
+        "Ticker": "NWS",
+        "LongName": "News Corporation",
+        "ShortName": "News Corporation",
+        "Sector": "Communication Services",
+        "Industry": "Entertainment",
+        "Website": "https://newscorp.com"
+    },
+    "NWSA": {
+        "Ticker": "NWSA",
+        "LongName": "News Corporation",
+        "ShortName": "News Corporation",
+        "Sector": "Communication Services",
+        "Industry": "Entertainment",
+        "Website": "https://newscorp.com"
+    },
+    "NXPI": {
+        "Ticker": "NXPI",
+        "LongName": "NXP Semiconductors N.V.",
+        "ShortName": "NXP Semiconductors N.V.",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.nxp.com"
+    },
+    "O": {
+        "Ticker": "O",
+        "LongName": "Realty Income Corporation",
+        "ShortName": "Realty Income Corporation",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Retail",
+        "Website": "https://www.realtyincome.com"
+    },
+    "ODFL": {
+        "Ticker": "ODFL",
+        "LongName": "Old Dominion Freight Line, Inc.",
+        "ShortName": "Old Dominion Freight Line, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Trucking",
+        "Website": "https://www.odfl.com"
+    },
+    "OKE": {
+        "Ticker": "OKE",
+        "LongName": "ONEOK, Inc.",
+        "ShortName": "ONEOK, Inc.",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Midstream",
+        "Website": "https://www.oneok.com/"
+    },
+    "OMC": {
+        "Ticker": "OMC",
+        "LongName": "Omnicom Group Inc.",
+        "ShortName": "Omnicom Group Inc.",
+        "Sector": "Communication Services",
+        "Industry": "Advertising Agencies",
+        "Website": "https://www.omc.com"
+    },
+    "ON": {
+        "Ticker": "ON",
+        "LongName": "ON Semiconductor Corporation",
+        "ShortName": "ON Semiconductor Corporation",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.onsemi.com"
+    },
+    "ORCL": {
+        "Ticker": "ORCL",
+        "LongName": "Oracle Corporation",
+        "ShortName": "Oracle Corporation",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.oracle.com"
+    },
+    "ORLY": {
+        "Ticker": "ORLY",
+        "LongName": "O'Reilly Automotive, Inc.",
+        "ShortName": "O'Reilly Automotive, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Parts",
+        "Website": "https://www.oreillyauto.com"
+    },
+    "OTIS": {
+        "Ticker": "OTIS",
+        "LongName": "Otis Worldwide Corporation",
+        "ShortName": "Otis Worldwide Corporation",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.otis.com"
+    },
+    "OXY": {
+        "Ticker": "OXY",
+        "LongName": "Occidental Petroleum Corporation",
+        "ShortName": "Occidental Petroleum Corporatio",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas E&P",
+        "Website": "https://www.oxy.com"
+    },
+    "PANW": {
+        "Ticker": "PANW",
+        "LongName": "Palo Alto Networks, Inc.",
+        "ShortName": "Palo Alto Networks, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.paloaltonetworks.com"
+    },
+    "PAYX": {
+        "Ticker": "PAYX",
+        "LongName": "Paychex, Inc.",
+        "ShortName": "Paychex, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.paychex.com"
+    },
+    "PCAR": {
+        "Ticker": "PCAR",
+        "LongName": "PACCAR Inc",
+        "ShortName": "PACCAR Inc.",
+        "Sector": "Industrials",
+        "Industry": "Farm & Heavy Construction Machinery",
+        "Website": "https://www.paccar.com"
+    },
+    "PCG": {
+        "Ticker": "PCG",
+        "LongName": "PG&E Corporation",
+        "ShortName": "Pacific Gas & Electric Co.",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.pgecorp.com"
+    },
+    "PEG": {
+        "Ticker": "PEG",
+        "LongName": "Public Service Enterprise Group Incorporated",
+        "ShortName": "Public Service Enterprise Group",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://investor.pseg.com"
+    },
+    "PEP": {
+        "Ticker": "PEP",
+        "LongName": "PepsiCo, Inc.",
+        "ShortName": "Pepsico, Inc.",
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages - Non-Alcoholic",
+        "Website": "https://www.pepsico.com"
+    },
+    "PFE": {
+        "Ticker": "PFE",
+        "LongName": "Pfizer Inc.",
+        "ShortName": "Pfizer, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - General",
+        "Website": "https://www.pfizer.com"
+    },
+    "PFG": {
+        "Ticker": "PFG",
+        "LongName": "Principal Financial Group, Inc.",
+        "ShortName": "Principal Financial Group Inc",
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "Website": "https://www.principal.com"
+    },
+    "PG": {
+        "Ticker": "PG",
+        "LongName": "The Procter & Gamble Company",
+        "ShortName": "Procter & Gamble Company (The)",
+        "Sector": "Consumer Defensive",
+        "Industry": "Household & Personal Products",
+        "Website": "https://www.pginvestor.com"
+    },
+    "PGR": {
+        "Ticker": "PGR",
+        "LongName": "The Progressive Corporation",
+        "ShortName": "Progressive Corporation (The)",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Property & Casualty",
+        "Website": "https://www.progressive.com"
+    },
+    "PH": {
+        "Ticker": "PH",
+        "LongName": "Parker-Hannifin Corporation",
+        "ShortName": "Parker-Hannifin Corporation",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.parker.com"
+    },
+    "PHM": {
+        "Ticker": "PHM",
+        "LongName": "PulteGroup, Inc.",
+        "ShortName": "PulteGroup, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Residential Construction",
+        "Website": "https://pultegroupinc.com"
+    },
+    "PKG": {
+        "Ticker": "PKG",
+        "LongName": "Packaging Corporation of America",
+        "ShortName": "Packaging Corporation of Americ",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Packaging & Containers",
+        "Website": "https://www.packagingcorp.com"
+    },
+    "PLD": {
+        "Ticker": "PLD",
+        "LongName": "Prologis, Inc.",
+        "ShortName": "Prologis, Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Industrial",
+        "Website": "https://www.prologis.com"
+    },
+    "PLTR": {
+        "Ticker": "PLTR",
+        "LongName": "Palantir Technologies Inc.",
+        "ShortName": "Palantir Technologies Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.palantir.com"
+    },
+    "PM": {
+        "Ticker": "PM",
+        "LongName": "Philip Morris International Inc.",
+        "ShortName": "Philip Morris International Inc",
+        "Sector": "Consumer Defensive",
+        "Industry": "Tobacco",
+        "Website": "https://www.pmi.com"
+    },
+    "PNC": {
+        "Ticker": "PNC",
+        "LongName": "The PNC Financial Services Group, Inc.",
+        "ShortName": "PNC Financial Services Group, I",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.pnc.com"
+    },
+    "PNR": {
+        "Ticker": "PNR",
+        "LongName": "Pentair plc",
+        "ShortName": "Pentair plc.",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.pentair.com"
+    },
+    "PNW": {
+        "Ticker": "PNW",
+        "LongName": "Pinnacle West Capital Corporation",
+        "ShortName": "Pinnacle West Capital Corporati",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.pinnaclewest.com"
+    },
+    "PODD": {
+        "Ticker": "PODD",
+        "LongName": "Insulet Corporation",
+        "ShortName": "Insulet Corporation",
+        "Sector": "Healthcare",
+        "Industry": "Medical Devices",
+        "Website": "https://www.insulet.com"
+    },
+    "POOL": {
+        "Ticker": "POOL",
+        "LongName": "Pool Corporation",
+        "ShortName": "Pool Corporation",
+        "Sector": "Industrials",
+        "Industry": "Industrial Distribution",
+        "Website": "https://www.poolcorp.com"
+    },
+    "PPG": {
+        "Ticker": "PPG",
+        "LongName": "PPG Industries, Inc.",
+        "ShortName": "PPG Industries, Inc.",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.ppg.com"
+    },
+    "PPL": {
+        "Ticker": "PPL",
+        "LongName": "PPL Corporation",
+        "ShortName": "PPL Corporation",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.pplweb.com"
+    },
+    "PRU": {
+        "Ticker": "PRU",
+        "LongName": "Prudential Financial, Inc.",
+        "ShortName": "Prudential Financial, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Life",
+        "Website": "https://www.prudential.com"
+    },
+    "PSA": {
+        "Ticker": "PSA",
+        "LongName": "Public Storage",
+        "ShortName": "Public Storage",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Industrial",
+        "Website": "https://www.publicstorage.com"
+    },
+    "PSKY": {
+        "Ticker": "PSKY",
+        "LongName": "Paramount Skydance Corporation",
+        "ShortName": "Paramount Skydance Corporation",
+        "Sector": "Communication Services",
+        "Industry": "Entertainment",
+        "Website": "https://www.paramount.com"
+    },
+    "PSX": {
+        "Ticker": "PSX",
+        "LongName": "Phillips 66",
+        "ShortName": "Phillips 66",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Refining & Marketing",
+        "Website": "https://www.phillips66.com"
+    },
+    "PTC": {
+        "Ticker": "PTC",
+        "LongName": "PTC Inc.",
+        "ShortName": "PTC Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.ptc.com"
+    },
+    "PWR": {
+        "Ticker": "PWR",
+        "LongName": "Quanta Services, Inc.",
+        "ShortName": "Quanta Services, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Engineering & Construction",
+        "Website": "https://www.quantaservices.com"
+    },
+    "PYPL": {
+        "Ticker": "PYPL",
+        "LongName": "PayPal Holdings, Inc.",
+        "ShortName": "PayPal Holdings, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Credit Services",
+        "Website": "https://www.paypal.com"
+    },
+    "Q": {
+        "Ticker": "Q",
+        "LongName": "Qnity Electronics, Inc.",
+        "ShortName": "Qnity Electronics, Inc.",
+        "Sector": "Technology",
+        "Industry": "Semiconductor Equipment & Materials",
+        "Website": "https://www.qnityelectronics.com"
+    },
+    "QCOM": {
+        "Ticker": "QCOM",
+        "LongName": "QUALCOMM Incorporated",
+        "ShortName": "QUALCOMM Incorporated",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.qualcomm.com"
+    },
+    "RCL": {
+        "Ticker": "RCL",
+        "LongName": "Royal Caribbean Cruises Ltd.",
+        "ShortName": "Royal Caribbean Cruises Ltd.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Travel Services",
+        "Website": "https://www.rclinvestor.com"
+    },
+    "REG": {
+        "Ticker": "REG",
+        "LongName": "Regency Centers Corporation",
+        "ShortName": "Regency Centers Corporation",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Retail",
+        "Website": "https://www.regencycenters.com"
+    },
+    "REGN": {
+        "Ticker": "REGN",
+        "LongName": "Regeneron Pharmaceuticals, Inc.",
+        "ShortName": "Regeneron Pharmaceuticals, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Biotechnology",
+        "Website": "https://www.regeneron.com"
+    },
+    "RF": {
+        "Ticker": "RF",
+        "LongName": "Regions Financial Corporation",
+        "ShortName": "Regions Financial Corporation",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.regions.com"
+    },
+    "RJF": {
+        "Ticker": "RJF",
+        "LongName": "Raymond James Financial, Inc.",
+        "ShortName": "Raymond James Financial, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "Website": "https://www.raymondjames.com"
+    },
+    "RL": {
+        "Ticker": "RL",
+        "LongName": "Ralph Lauren Corporation",
+        "ShortName": "Ralph Lauren Corporation",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Apparel Manufacturing",
+        "Website": "https://www.corporate.ralphlauren.com"
+    },
+    "RMD": {
+        "Ticker": "RMD",
+        "LongName": "ResMed Inc.",
+        "ShortName": "ResMed Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Instruments & Supplies",
+        "Website": "https://www.resmed.com"
+    },
+    "ROK": {
+        "Ticker": "ROK",
+        "LongName": "Rockwell Automation, Inc.",
+        "ShortName": "Rockwell Automation, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.rockwellautomation.com"
+    },
+    "ROL": {
+        "Ticker": "ROL",
+        "LongName": "Rollins, Inc.",
+        "ShortName": "Rollins, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Personal Services",
+        "Website": "https://www.rollins.com"
+    },
+    "ROP": {
+        "Ticker": "ROP",
+        "LongName": "Roper Technologies, Inc.",
+        "ShortName": "Roper Technologies, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.ropertech.com"
+    },
+    "ROST": {
+        "Ticker": "ROST",
+        "LongName": "Ross Stores, Inc.",
+        "ShortName": "Ross Stores, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Apparel Retail",
+        "Website": "https://www.rossstores.com"
+    },
+    "RSG": {
+        "Ticker": "RSG",
+        "LongName": "Republic Services, Inc.",
+        "ShortName": "Republic Services, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Waste Management",
+        "Website": "https://www.republicservices.com"
+    },
+    "RTX": {
+        "Ticker": "RTX",
+        "LongName": "RTX Corporation",
+        "ShortName": "RTX Corporation",
+        "Sector": "Industrials",
+        "Industry": "Aerospace & Defense",
+        "Website": "https://www.rtx.com"
+    },
+    "RVTY": {
+        "Ticker": "RVTY",
+        "LongName": "Revvity, Inc.",
+        "ShortName": "Revvity, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Diagnostics & Research",
+        "Website": "https://www.revvity.com"
+    },
+    "SATS": {
+        "Ticker": "SATS",
+        "LongName": "EchoStar Corporation",
+        "ShortName": "EchoStar Corporation",
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "Website": "https://www.echostar.com"
+    },
+    "SBAC": {
+        "Ticker": "SBAC",
+        "LongName": "SBA Communications Corporation",
+        "ShortName": "SBA Communications Corporation",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Specialty",
+        "Website": "https://www.sbasite.com"
+    },
+    "SBUX": {
+        "Ticker": "SBUX",
+        "LongName": "Starbucks Corporation",
+        "ShortName": "Starbucks Corporation",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Restaurants",
+        "Website": "https://www.starbucks.com"
+    },
+    "SCHW": {
+        "Ticker": "SCHW",
+        "LongName": "The Charles Schwab Corporation",
+        "ShortName": "Charles Schwab Corporation (The",
+        "Sector": "Financial Services",
+        "Industry": "Capital Markets",
+        "Website": "https://www.aboutschwab.com"
+    },
+    "SHW": {
+        "Ticker": "SHW",
+        "LongName": "The Sherwin-Williams Company",
+        "ShortName": "Sherwin-Williams Company (The)",
+        "Sector": "Basic Materials",
+        "Industry": "Specialty Chemicals",
+        "Website": "https://www.sherwin-williams.com"
+    },
+    "SJM": {
+        "Ticker": "SJM",
+        "LongName": "The J. M. Smucker Company",
+        "ShortName": "The J.M. Smucker Company",
+        "Sector": "Consumer Defensive",
+        "Industry": "Packaged Foods",
+        "Website": "https://www.jmsmucker.com"
+    },
+    "SLB": {
+        "Ticker": "SLB",
+        "LongName": "SLB N.V.",
+        "ShortName": "SLB Limited",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Equipment & Services",
+        "Website": "https://www.slb.com"
+    },
+    "SMCI": {
+        "Ticker": "SMCI",
+        "LongName": "Super Micro Computer, Inc.",
+        "ShortName": "Super Micro Computer, Inc.",
+        "Sector": "Technology",
+        "Industry": "Computer Hardware",
+        "Website": "https://www.supermicro.com"
+    },
+    "SNA": {
+        "Ticker": "SNA",
+        "LongName": "Snap-on Incorporated",
+        "ShortName": "Snap-On Incorporated",
+        "Sector": "Industrials",
+        "Industry": "Tools & Accessories",
+        "Website": "https://www.snapon.com"
+    },
+    "SNDK": {
+        "Ticker": "SNDK",
+        "LongName": "Sandisk Corporation",
+        "ShortName": "Sandisk Corporation",
+        "Sector": "Technology",
+        "Industry": "Computer Hardware",
+        "Website": "https://www.sandisk.com"
+    },
+    "SNPS": {
+        "Ticker": "SNPS",
+        "LongName": "Synopsys, Inc.",
+        "ShortName": "Synopsys, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.synopsys.com"
+    },
+    "SO": {
+        "Ticker": "SO",
+        "LongName": "The Southern Company",
+        "ShortName": "Southern Company (The)",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.southerncompany.com"
+    },
+    "SOLV": {
+        "Ticker": "SOLV",
+        "LongName": "Solventum Corporation",
+        "ShortName": "Solventum Corporation",
+        "Sector": "Healthcare",
+        "Industry": "Medical Instruments & Supplies",
+        "Website": "https://www.solventum.com"
+    },
+    "SPG": {
+        "Ticker": "SPG",
+        "LongName": "Simon Property Group, Inc.",
+        "ShortName": "Simon Property Group, Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Retail",
+        "Website": "https://www.simon.com"
+    },
+    "SPGI": {
+        "Ticker": "SPGI",
+        "LongName": "S&P Global Inc.",
+        "ShortName": "S&P Global Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Financial Data & Stock Exchanges",
+        "Website": "https://www.spglobal.com"
+    },
+    "SRE": {
+        "Ticker": "SRE",
+        "LongName": "Sempra",
+        "ShortName": "DBA Sempra",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Diversified",
+        "Website": "https://www.sempra.com"
+    },
+    "STE": {
+        "Ticker": "STE",
+        "LongName": "STERIS plc",
+        "ShortName": "STERIS plc (Ireland)",
+        "Sector": "Healthcare",
+        "Industry": "Medical Devices",
+        "Website": "https://www.steris.com"
+    },
+    "STLD": {
+        "Ticker": "STLD",
+        "LongName": "Steel Dynamics, Inc.",
+        "ShortName": "Steel Dynamics, Inc.",
+        "Sector": "Basic Materials",
+        "Industry": "Steel",
+        "Website": "https://www.steeldynamics.com"
+    },
+    "STT": {
+        "Ticker": "STT",
+        "LongName": "State Street Corporation",
+        "ShortName": "State Street Corporation",
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "Website": "https://www.statestreet.com"
+    },
+    "STX": {
+        "Ticker": "STX",
+        "LongName": "Seagate Technology Holdings plc",
+        "ShortName": "Seagate Technology Holdings PLC",
+        "Sector": "Technology",
+        "Industry": "Computer Hardware",
+        "Website": "https://www.seagate.com"
+    },
+    "STZ": {
+        "Ticker": "STZ",
+        "LongName": "Constellation Brands, Inc.",
+        "ShortName": "Constellation Brands, Inc.",
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages - Brewers",
+        "Website": "https://www.cbrands.com"
+    },
+    "SW": {
+        "Ticker": "SW",
+        "LongName": "Smurfit Westrock Plc",
+        "ShortName": "Smurfit WestRock plc",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Packaging & Containers",
+        "Website": "https://www.smurfitwestrock.com"
+    },
+    "SWK": {
+        "Ticker": "SWK",
+        "LongName": "Stanley Black & Decker, Inc.",
+        "ShortName": "Stanley Black & Decker, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Tools & Accessories",
+        "Website": "https://www.stanleyblackanddecker.com"
+    },
+    "SWKS": {
+        "Ticker": "SWKS",
+        "LongName": "Skyworks Solutions, Inc.",
+        "ShortName": "Skyworks Solutions, Inc.",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.skyworksinc.com"
+    },
+    "SYF": {
+        "Ticker": "SYF",
+        "LongName": "Synchrony Financial",
+        "ShortName": "Synchrony Financial",
+        "Sector": "Financial Services",
+        "Industry": "Credit Services",
+        "Website": "https://www.synchrony.com"
+    },
+    "SYK": {
+        "Ticker": "SYK",
+        "LongName": "Stryker Corporation",
+        "ShortName": "Stryker Corporation",
+        "Sector": "Healthcare",
+        "Industry": "Medical Devices",
+        "Website": "https://www.stryker.com"
+    },
+    "SYY": {
+        "Ticker": "SYY",
+        "LongName": "Sysco Corporation",
+        "ShortName": "Sysco Corporation",
+        "Sector": "Consumer Defensive",
+        "Industry": "Food Distribution",
+        "Website": "https://www.sysco.com"
+    },
+    "T": {
+        "Ticker": "T",
+        "LongName": "AT&T Inc.",
+        "ShortName": "AT&T Inc.",
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "Website": "https://www.att.com"
+    },
+    "TAP": {
+        "Ticker": "TAP",
+        "LongName": "Molson Coors Beverage Company",
+        "ShortName": "Molson Coors Beverage Company",
+        "Sector": "Consumer Defensive",
+        "Industry": "Beverages - Brewers",
+        "Website": "https://www.molsoncoors.com"
+    },
+    "TDG": {
+        "Ticker": "TDG",
+        "LongName": "TransDigm Group Incorporated",
+        "ShortName": "Transdigm Group Incorporated",
+        "Sector": "Industrials",
+        "Industry": "Aerospace & Defense",
+        "Website": "https://www.transdigm.com"
+    },
+    "TDY": {
+        "Ticker": "TDY",
+        "LongName": "Teledyne Technologies Incorporated",
+        "ShortName": "Teledyne Technologies Incorpora",
+        "Sector": "Technology",
+        "Industry": "Scientific & Technical Instruments",
+        "Website": "https://www.teledyne.com"
+    },
+    "TECH": {
+        "Ticker": "TECH",
+        "LongName": "Bio-Techne Corporation",
+        "ShortName": "Bio-Techne Corp",
+        "Sector": "Healthcare",
+        "Industry": "Biotechnology",
+        "Website": "https://www.bio-techne.com"
+    },
+    "TEL": {
+        "Ticker": "TEL",
+        "LongName": "TE Connectivity plc",
+        "ShortName": "TE Connectivity plc",
+        "Sector": "Technology",
+        "Industry": "Electronic Components",
+        "Website": "https://www.te.com"
+    },
+    "TER": {
+        "Ticker": "TER",
+        "LongName": "Teradyne, Inc.",
+        "ShortName": "Teradyne, Inc.",
+        "Sector": "Technology",
+        "Industry": "Semiconductor Equipment & Materials",
+        "Website": "https://www.teradyne.com"
+    },
+    "TFC": {
+        "Ticker": "TFC",
+        "LongName": "Truist Financial Corporation",
+        "ShortName": "Truist Financial Corporation",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.truist.com"
+    },
+    "TGT": {
+        "Ticker": "TGT",
+        "LongName": "Target Corporation",
+        "ShortName": "Target Corporation",
+        "Sector": "Consumer Defensive",
+        "Industry": "Discount Stores",
+        "Website": "https://corporate.target.com"
+    },
+    "TJX": {
+        "Ticker": "TJX",
+        "LongName": "The TJX Companies, Inc.",
+        "ShortName": "TJX Companies, Inc. (The)",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Apparel Retail",
+        "Website": "https://www.tjx.com"
+    },
+    "TKO": {
+        "Ticker": "TKO",
+        "LongName": "TKO Group Holdings, Inc.",
+        "ShortName": "TKO Group Holdings, Inc.",
+        "Sector": "Communication Services",
+        "Industry": "Entertainment",
+        "Website": "https://tkogrp.com"
+    },
+    "TMO": {
+        "Ticker": "TMO",
+        "LongName": "Thermo Fisher Scientific Inc.",
+        "ShortName": "Thermo Fisher Scientific Inc",
+        "Sector": "Healthcare",
+        "Industry": "Diagnostics & Research",
+        "Website": "https://www.thermofisher.com"
+    },
+    "TMUS": {
+        "Ticker": "TMUS",
+        "LongName": "T-Mobile US, Inc.",
+        "ShortName": "T-Mobile US, Inc.",
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "Website": "https://www.t-mobile.com"
+    },
+    "TPL": {
+        "Ticker": "TPL",
+        "LongName": "Texas Pacific Land Corporation",
+        "ShortName": "Texas Pacific Land Corporation",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas E&P",
+        "Website": "https://www.texaspacific.com"
+    },
+    "TPR": {
+        "Ticker": "TPR",
+        "LongName": "Tapestry, Inc.",
+        "ShortName": "Tapestry, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Luxury Goods",
+        "Website": "https://www.tapestry.com"
+    },
+    "TRGP": {
+        "Ticker": "TRGP",
+        "LongName": "Targa Resources Corp.",
+        "ShortName": "Targa Resources, Inc.",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Midstream",
+        "Website": "https://www.targaresources.com"
+    },
+    "TRMB": {
+        "Ticker": "TRMB",
+        "LongName": "Trimble Inc.",
+        "ShortName": "Trimble Inc.",
+        "Sector": "Technology",
+        "Industry": "Scientific & Technical Instruments",
+        "Website": "https://www.trimble.com"
+    },
+    "TROW": {
+        "Ticker": "TROW",
+        "LongName": "T. Rowe Price Group, Inc.",
+        "ShortName": "T. Rowe Price Group, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Asset Management",
+        "Website": "https://www.troweprice.com"
+    },
+    "TRV": {
+        "Ticker": "TRV",
+        "LongName": "The Travelers Companies, Inc.",
+        "ShortName": "The Travelers Companies, Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Property & Casualty",
+        "Website": "https://www.travelers.com"
+    },
+    "TSCO": {
+        "Ticker": "TSCO",
+        "LongName": "Tractor Supply Company",
+        "ShortName": "Tractor Supply Company",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Specialty Retail",
+        "Website": "https://www.tractorsupply.com"
+    },
+    "TSLA": {
+        "Ticker": "TSLA",
+        "LongName": "Tesla, Inc.",
+        "ShortName": "Tesla, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Auto Manufacturers",
+        "Website": "https://www.tesla.com"
+    },
+    "TSN": {
+        "Ticker": "TSN",
+        "LongName": "Tyson Foods, Inc.",
+        "ShortName": "Tyson Foods, Inc.",
+        "Sector": "Consumer Defensive",
+        "Industry": "Farm Products",
+        "Website": "https://www.tysonfoods.com"
+    },
+    "TT": {
+        "Ticker": "TT",
+        "LongName": "Trane Technologies plc",
+        "ShortName": "Trane Technologies plc",
+        "Sector": "Industrials",
+        "Industry": "Building Products & Equipment",
+        "Website": "https://www.tranetechnologies.com"
+    },
+    "TTD": {
+        "Ticker": "TTD",
+        "LongName": "The Trade Desk, Inc.",
+        "ShortName": "The Trade Desk, Inc.",
+        "Sector": "Communication Services",
+        "Industry": "Advertising Agencies",
+        "Website": "https://www.thetradedesk.com"
+    },
+    "TTWO": {
+        "Ticker": "TTWO",
+        "LongName": "Take-Two Interactive Software, Inc.",
+        "ShortName": "Take-Two Interactive Software, ",
+        "Sector": "Communication Services",
+        "Industry": "Electronic Gaming & Multimedia",
+        "Website": "https://www.take2games.com"
+    },
+    "TXN": {
+        "Ticker": "TXN",
+        "LongName": "Texas Instruments Incorporated",
+        "ShortName": "Texas Instruments Incorporated",
+        "Sector": "Technology",
+        "Industry": "Semiconductors",
+        "Website": "https://www.ti.com"
+    },
+    "TXT": {
+        "Ticker": "TXT",
+        "LongName": "Textron Inc.",
+        "ShortName": "Textron Inc.",
+        "Sector": "Industrials",
+        "Industry": "Aerospace & Defense",
+        "Website": "https://www.textron.com"
+    },
+    "TYL": {
+        "Ticker": "TYL",
+        "LongName": "Tyler Technologies, Inc.",
+        "ShortName": "Tyler Technologies, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.tylertech.com"
+    },
+    "UAL": {
+        "Ticker": "UAL",
+        "LongName": "United Airlines Holdings, Inc.",
+        "ShortName": "United Airlines Holdings, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Airlines",
+        "Website": "https://www.united.com"
+    },
+    "UBER": {
+        "Ticker": "UBER",
+        "LongName": "Uber Technologies, Inc.",
+        "ShortName": "Uber Technologies, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.uber.com"
+    },
+    "UDR": {
+        "Ticker": "UDR",
+        "LongName": "UDR, Inc.",
+        "ShortName": "UDR, Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Residential",
+        "Website": "https://www.udr.com"
+    },
+    "UHS": {
+        "Ticker": "UHS",
+        "LongName": "Universal Health Services, Inc.",
+        "ShortName": "Universal Health Services, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Care Facilities",
+        "Website": "https://uhs.com"
+    },
+    "ULTA": {
+        "Ticker": "ULTA",
+        "LongName": "Ulta Beauty, Inc.",
+        "ShortName": "Ulta Beauty, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Specialty Retail",
+        "Website": "https://www.ulta.com"
+    },
+    "UNH": {
+        "Ticker": "UNH",
+        "LongName": "UnitedHealth Group Incorporated",
+        "ShortName": "UnitedHealth Group Incorporated",
+        "Sector": "Healthcare",
+        "Industry": "Healthcare Plans",
+        "Website": "https://www.unitedhealthgroup.com"
+    },
+    "UNP": {
+        "Ticker": "UNP",
+        "LongName": "Union Pacific Corporation",
+        "ShortName": "Union Pacific Corporation",
+        "Sector": "Industrials",
+        "Industry": "Railroads",
+        "Website": "https://www.up.com"
+    },
+    "UPS": {
+        "Ticker": "UPS",
+        "LongName": "United Parcel Service, Inc.",
+        "ShortName": "United Parcel Service, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Integrated Freight & Logistics",
+        "Website": "https://www.ups.com"
+    },
+    "URI": {
+        "Ticker": "URI",
+        "LongName": "United Rentals, Inc.",
+        "ShortName": "United Rentals, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Rental & Leasing Services",
+        "Website": "https://www.unitedrentals.com"
+    },
+    "USB": {
+        "Ticker": "USB",
+        "LongName": "U.S. Bancorp",
+        "ShortName": "U.S. Bancorp",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Regional",
+        "Website": "https://www.usbank.com"
+    },
+    "V": {
+        "Ticker": "V",
+        "LongName": "Visa Inc.",
+        "ShortName": "Visa Inc.",
+        "Sector": "Financial Services",
+        "Industry": "Credit Services",
+        "Website": "https://www.visa.com"
+    },
+    "VEEV": {
+        "Ticker": "VEEV",
+        "LongName": "Veeva Systems Inc.",
+        "ShortName": "Veeva Systems Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Health Information Services",
+        "Website": "https://www.veeva.com"
+    },
+    "VICI": {
+        "Ticker": "VICI",
+        "LongName": "VICI Properties Inc.",
+        "ShortName": "VICI Properties Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Diversified",
+        "Website": "https://www.viciproperties.com"
+    },
+    "VLO": {
+        "Ticker": "VLO",
+        "LongName": "Valero Energy Corporation",
+        "ShortName": "Valero Energy Corporation",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Refining & Marketing",
+        "Website": "https://www.valero.com"
+    },
+    "VLTO": {
+        "Ticker": "VLTO",
+        "LongName": "Veralto Corporation",
+        "ShortName": "Veralto Corp",
+        "Sector": "Industrials",
+        "Industry": "Pollution & Treatment Controls",
+        "Website": "https://www.veralto.com"
+    },
+    "VMC": {
+        "Ticker": "VMC",
+        "LongName": "Vulcan Materials Company",
+        "ShortName": "Vulcan Materials Company (Holdi",
+        "Sector": "Basic Materials",
+        "Industry": "Building Materials",
+        "Website": "https://www.vulcanmaterials.com"
+    },
+    "VRSK": {
+        "Ticker": "VRSK",
+        "LongName": "Verisk Analytics, Inc.",
+        "ShortName": "Verisk Analytics, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Consulting Services",
+        "Website": "https://www.verisk.com"
+    },
+    "VRSN": {
+        "Ticker": "VRSN",
+        "LongName": "VeriSign, Inc.",
+        "ShortName": "VeriSign, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.verisign.com"
+    },
+    "VRT": {
+        "Ticker": "VRT",
+        "LongName": "Vertiv Holdings Co",
+        "ShortName": "Vertiv Holdings, LLC",
+        "Sector": "Industrials",
+        "Industry": "Electrical Equipment & Parts",
+        "Website": "https://www.vertiv.com"
+    },
+    "VRTX": {
+        "Ticker": "VRTX",
+        "LongName": "Vertex Pharmaceuticals Incorporated",
+        "ShortName": "Vertex Pharmaceuticals Incorpor",
+        "Sector": "Healthcare",
+        "Industry": "Biotechnology",
+        "Website": "https://www.vrtx.com"
+    },
+    "VST": {
+        "Ticker": "VST",
+        "LongName": "Vistra Corp.",
+        "ShortName": "Vistra Corp.",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Independent Power Producers",
+        "Website": "https://vistracorp.com"
+    },
+    "VTR": {
+        "Ticker": "VTR",
+        "LongName": "Ventas, Inc.",
+        "ShortName": "Ventas, Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Healthcare Facilities",
+        "Website": "https://www.ventasreit.com"
+    },
+    "VTRS": {
+        "Ticker": "VTRS",
+        "LongName": "Viatris Inc.",
+        "ShortName": "Viatris Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - Specialty & Generic",
+        "Website": "https://www.viatris.com"
+    },
+    "VZ": {
+        "Ticker": "VZ",
+        "LongName": "Verizon Communications Inc.",
+        "ShortName": "Verizon Communications Inc.",
+        "Sector": "Communication Services",
+        "Industry": "Telecom Services",
+        "Website": "https://www.verizon.com"
+    },
+    "WAB": {
+        "Ticker": "WAB",
+        "LongName": "Westinghouse Air Brake Technologies Corporation",
+        "ShortName": "Westinghouse Air Brake Technolo",
+        "Sector": "Industrials",
+        "Industry": "Railroads",
+        "Website": "https://www.wabteccorp.com"
+    },
+    "WAT": {
+        "Ticker": "WAT",
+        "LongName": "Waters Corporation",
+        "ShortName": "Waters Corporation",
+        "Sector": "Healthcare",
+        "Industry": "Diagnostics & Research",
+        "Website": "https://www.waters.com"
+    },
+    "WBD": {
+        "Ticker": "WBD",
+        "LongName": "Warner Bros. Discovery, Inc.",
+        "ShortName": "Warner Bros. Discovery, Inc. - ",
+        "Sector": "Communication Services",
+        "Industry": "Entertainment",
+        "Website": "https://www.wbd.com"
+    },
+    "WDAY": {
+        "Ticker": "WDAY",
+        "LongName": "Workday, Inc.",
+        "ShortName": "Workday, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Application",
+        "Website": "https://www.workday.com"
+    },
+    "WDC": {
+        "Ticker": "WDC",
+        "LongName": "Western Digital Corporation",
+        "ShortName": "Western Digital Corporation",
+        "Sector": "Technology",
+        "Industry": "Computer Hardware",
+        "Website": "https://www.westerndigital.com"
+    },
+    "WEC": {
+        "Ticker": "WEC",
+        "LongName": "WEC Energy Group, Inc.",
+        "ShortName": "WEC Energy Group, Inc.",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.wecenergygroup.com"
+    },
+    "WELL": {
+        "Ticker": "WELL",
+        "LongName": "Welltower Inc.",
+        "ShortName": "Welltower Inc.",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Healthcare Facilities",
+        "Website": "https://www.welltower.com"
+    },
+    "WFC": {
+        "Ticker": "WFC",
+        "LongName": "Wells Fargo & Company",
+        "ShortName": "Wells Fargo & Company",
+        "Sector": "Financial Services",
+        "Industry": "Banks - Diversified",
+        "Website": "https://www.wellsfargo.com"
+    },
+    "WM": {
+        "Ticker": "WM",
+        "LongName": "Waste Management, Inc.",
+        "ShortName": "Waste Management, Inc.",
+        "Sector": "Industrials",
+        "Industry": "Waste Management",
+        "Website": "https://www.wm.com"
+    },
+    "WMB": {
+        "Ticker": "WMB",
+        "LongName": "The Williams Companies, Inc.",
+        "ShortName": "Williams Companies, Inc. (The)",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Midstream",
+        "Website": "https://www.williams.com"
+    },
+    "WMT": {
+        "Ticker": "WMT",
+        "LongName": "Walmart Inc.",
+        "ShortName": "Walmart Inc.",
+        "Sector": "Consumer Defensive",
+        "Industry": "Discount Stores",
+        "Website": "https://www.stock.walmart.com"
+    },
+    "WRB": {
+        "Ticker": "WRB",
+        "LongName": "W. R. Berkley Corporation",
+        "ShortName": "W.R. Berkley Corporation",
+        "Sector": "Financial Services",
+        "Industry": "Insurance - Property & Casualty",
+        "Website": "https://www.berkley.com"
+    },
+    "WSM": {
+        "Ticker": "WSM",
+        "LongName": "Williams-Sonoma, Inc.",
+        "ShortName": "Williams-Sonoma, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Specialty Retail",
+        "Website": "https://www.williams-sonomainc.com"
+    },
+    "WST": {
+        "Ticker": "WST",
+        "LongName": "West Pharmaceutical Services, Inc.",
+        "ShortName": "West Pharmaceutical Services, I",
+        "Sector": "Healthcare",
+        "Industry": "Medical Instruments & Supplies",
+        "Website": "https://www.westpharma.com"
+    },
+    "WTW": {
+        "Ticker": "WTW",
+        "LongName": "Willis Towers Watson Public Limited Company",
+        "ShortName": "Willis Towers Watson Public Lim",
+        "Sector": "Financial Services",
+        "Industry": "Insurance Brokers",
+        "Website": "https://www.wtwco.com"
+    },
+    "WY": {
+        "Ticker": "WY",
+        "LongName": "Weyerhaeuser Company",
+        "ShortName": "Weyerhaeuser Company",
+        "Sector": "Real Estate",
+        "Industry": "REIT - Specialty",
+        "Website": "https://www.weyerhaeuser.com"
+    },
+    "WYNN": {
+        "Ticker": "WYNN",
+        "LongName": "Wynn Resorts, Limited",
+        "ShortName": "Wynn Resorts, Limited",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Resorts & Casinos",
+        "Website": "https://www.wynnresorts.com"
+    },
+    "XEL": {
+        "Ticker": "XEL",
+        "LongName": "Xcel Energy Inc.",
+        "ShortName": "Xcel Energy Inc.",
+        "Sector": "Utilities",
+        "Industry": "Utilities - Regulated Electric",
+        "Website": "https://www.my.xcelenergy.com/s"
+    },
+    "XOM": {
+        "Ticker": "XOM",
+        "LongName": "Exxon Mobil Corporation",
+        "ShortName": "Exxon Mobil Corporation",
+        "Sector": "Energy",
+        "Industry": "Oil & Gas Integrated",
+        "Website": "https://corporate.exxonmobil.com"
+    },
+    "XYL": {
+        "Ticker": "XYL",
+        "LongName": "Xylem Inc.",
+        "ShortName": "Xylem Inc.",
+        "Sector": "Industrials",
+        "Industry": "Specialty Industrial Machinery",
+        "Website": "https://www.xylem.com"
+    },
+    "XYZ": {
+        "Ticker": "XYZ",
+        "LongName": "Block, Inc.",
+        "ShortName": "Block, Inc.",
+        "Sector": "Technology",
+        "Industry": "Software - Infrastructure",
+        "Website": "https://www.block.xyz"
+    },
+    "YUM": {
+        "Ticker": "YUM",
+        "LongName": "Yum! Brands, Inc.",
+        "ShortName": "Yum! Brands, Inc.",
+        "Sector": "Consumer Cyclical",
+        "Industry": "Restaurants",
+        "Website": "https://www.yum.com"
+    },
+    "ZBH": {
+        "Ticker": "ZBH",
+        "LongName": "Zimmer Biomet Holdings, Inc.",
+        "ShortName": "Zimmer Biomet Holdings, Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Medical Devices",
+        "Website": "https://www.zimmerbiomet.com"
+    },
+    "ZBRA": {
+        "Ticker": "ZBRA",
+        "LongName": "Zebra Technologies Corporation",
+        "ShortName": "Zebra Technologies Corporation",
+        "Sector": "Technology",
+        "Industry": "Communication Equipment",
+        "Website": "https://www.zebra.com"
+    },
+    "ZTS": {
+        "Ticker": "ZTS",
+        "LongName": "Zoetis Inc.",
+        "ShortName": "Zoetis Inc.",
+        "Sector": "Healthcare",
+        "Industry": "Drug Manufacturers - Specialty & Generic",
+        "Website": "https://www.zoetis.com"
+    }
+}

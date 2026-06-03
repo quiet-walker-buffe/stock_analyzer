@@ -1,0 +1,19 @@
+# 秘密情報・環境変数
+.env
+
+# キャッシュ・データ関連（フォルダごと無視）
+cache/
+ui/
+investment_scan_results.csv
+
+# Pythonが自動生成するゴミファイル
+__pycache__/
+*.pyc
+
+# 実験用・CLI用ファイル（不要ならGitの追跡から外す）
+main.py
+test.py
+test2.py
+file_structure.txt
+words.txt
+morning_check.py
