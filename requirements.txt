@@ -3,6 +3,6 @@ yfinance
 pandas
 google-genai
 python-dotenv
-numpy
 plotly
 requests
+streamlit-local-storage
