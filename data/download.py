@@ -4,7 +4,7 @@ import os
 import time
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
-CACHE_DIR = os.path.join(CURRENT_DIR, "../cache") # 必要に応じて階層を調整してください
+CACHE_DIR = os.path.join(CURRENT_DIR, "../cache") # 必要に応じて階層を調整
 
 
 def download_ticker(ticker):
@@ -31,7 +31,7 @@ def download_ticker(ticker):
             pickle.dump(data_bundle, f)
             
         print(f"✅ Saved: {CACHE_DIR}/{ticker}.pkl")
-        time.sleep(1.0)
+        time.sleep(0.1) # サーバーへの負荷を軽減するため、少し待機
         return True
     except Exception as e:
         print(f"❌ Failed to download {ticker}: {e}")
@@ -42,7 +42,7 @@ def load_local_data(ticker):
 
     if os.path.exists(file_path): # 判定1: ファイルが存在し、かつ「新しければ」ロード
         last_modified = os.path.getmtime(file_path) # ファイルの更新日時を確認
-        if time.time() - last_modified < 86400*7:  # 24*7時間以内
+        if time.time() - last_modified < 86400:  # 24時間 以内
             print(f"Loading {ticker} from local cache...")
             with open(file_path, "rb") as f:
                 return pickle.load(f)

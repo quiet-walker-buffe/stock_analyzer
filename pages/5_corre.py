@@ -5,41 +5,32 @@ from data.download import load_local_data
 from utils import show_common_sidebar
 
 def calculate_correlation_from_local(tickers):
-    # 各銘柄の「株価シリーズ」をストックしていくための辞書
-    price_dict = {}
+    
+    price_dict = {} # 各銘柄の「株価シリーズ」をストックしていくための辞書
     
     for t in tickers:
-        # 1. ローカルから辞書データをロード
-        local_data = load_local_data(t)
         
-        # 2. 辞書の中から「history（DataFrame）」を取り出す
-        history_df = local_data["history"]
+        local_data = load_local_data(t) # ローカルから辞書データをロード
+        history_df = local_data["history"] # 辞書の中から「history（DataFrame）」を取り出す
         
-        # 3. historyの中から「Close（終値）」列だけを引っこ抜く
-        # ※yfinanceのバージョンによっては 'Close' または 'Adj Close'
-        if 'Close' in history_df.columns:
-            # 💡 後で連結したときに誰の株価か分かるよう、列名をティッカー名に変更します
-            price_dict[t] = history_df['Close']
-        elif 'Adj Close' in history_df.columns:
+        if 'Close' in history_df.columns: # historyの中から「Close（終値）」列だけを引っこ抜く
+            price_dict[t] = history_df['Close'] # 💡 後で連結したときに誰の株価か分かるよう、列名をティッカー名に変更
+        elif 'Adj Close' in history_df.columns: # ※yfinanceのバージョンによっては 'Adj Close'
             price_dict[t] = history_df['Adj Close']
 
-    # ─── 💡 ここが最大のポイント！ ───
     # 集めた複数の株価データを、共通の「Date（日付）」を軸にして、横（列方向）にガッチャンコします
-    # axis=1 は「横に並べる」という意味です。日付がズレていてもPandasが自動で綺麗に整列させてくれます
-    combined_df = pd.concat(price_dict, axis=1)
-    # 1. 日付のタイムゾーン情報を完全に消去して「ただの日付」に統一する
-    combined_df.index = combined_df.index.tz_localize(None)
+    combined_df = pd.concat(price_dict, axis=1) # axis=1 は「横に並べる」という意味。日付がズレていてもPandasが自動で整列させる
+    combined_df.index = combined_df.index.tz_localize(None) # 日付のタイムゾーン情報を完全に消去
     
-    # 2. 土日祝日や時差で「片方しかデータがない日」の空欄（NaN）を、
-    #    「前日の株価（一晩前の終値）」をスライドさせて無理やり埋める（Forward Fill）
-    combined_df = combined_df.ffill()
+    combined_df = combined_df.ffill() # 「データがない日」の空欄（NaN）を、「前日の株価」をスライドさせて埋める（Forward Fill）
     
-    # 3. データの最初の方など、どうしても埋まらない部分（bfill）を処理
-    combined_df = combined_df.bfill()
-    # 4. これで完璧な1枚の表になったので、相関係数を計算
-    correlation_matrix = combined_df.corr()
+    combined_df = combined_df.bfill() # データの最初の方など、どうしても埋まらない部分を（Backward Fill）で埋める。これで完全に空欄がなくなる。
+
+    df_returns = combined_df.pct_change()
+    mean_corr = df_returns.corr().mean().mean()
+    correlation_matrix = df_returns.corr() # これで完璧な1枚の表になったので、相関係数を計算
     
-    return correlation_matrix
+    return correlation_matrix, mean_corr
 
 
 selected_ticker = None
@@ -55,7 +46,7 @@ st.write("過去の時系列データから、銘柄同士の値動きの連動�
 
 # ─── 💡 1. 以前作成した関数でマトリクスを取得 ───
 my_portfolio = st.session_state.history
-matrix = calculate_correlation_from_local(my_portfolio)
+matrix, mean_corr = calculate_correlation_from_local(my_portfolio)
 
 # ─── 💡 2. Plotlyでインタラクティブなヒートマップを作成 ───
 fig = px.imshow(
@@ -64,7 +55,7 @@ fig = px.imshow(
     aspect="auto",                  # グラフの縦横比を自動調整
     color_continuous_scale="RdBu_r", # 💡 レイ・ダリオ風の「赤（高相関）〜青（低相関）」のカラーパレット
     labels=dict(color="相関係数"),   # カラーバーのラベル名
-    zmin=-1,                        # 最小値
+    zmin=-1 + mean_corr,                        # 最小値
     zmax=1                          # 最大値
 )
 
@@ -80,4 +71,4 @@ fig.update_layout(
 # st.pyplot ではなく st.plotly_chart を使います
 st.plotly_chart(fig, width='stretch')
 
-st.caption("※ 1.0に近い（赤い）ほど同じ動きをし、0に近い（白い）ほどバラバラに動く（分散投資が効いている）ことを示します。")
+st.caption("※ 1.0に近い（赤い）ほど同じ動きをし、マイナスに大きい（青い）ほどバラバラに動く（分散投資が効いている）ことを示します。")

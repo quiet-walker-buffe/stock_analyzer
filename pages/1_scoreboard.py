@@ -5,6 +5,7 @@ from analytics.score_engine import calculate_quority_score
 from data.fetch_data import fetch_fundamentals_data
 from services.ai_service import call_gemini, get_prompt
 from utils import show_common_sidebar
+from data.download import load_local_data
 
 def draw_radar_chart(df, selected_ticker, competitors, categories):
     selected_ticker_data = df[df['ticker'] == selected_ticker] # 選択された銘柄のデータを抽出
@@ -84,6 +85,12 @@ if competitors == "未選択":
     st.stop()
 TICKERS = [selected_ticker] + competitors
 df = get_score_data(TICKERS) 
+
+if selected_ticker:
+    stock = load_local_data(selected_ticker)
+    info = stock['info']  
+    longName = info.get('longName') 
+    st.subheader(f"{longName}のスコアチャート")
 
 col1, col2, col3,col4 = st.columns([1, 1, 1, 1]) # 画面を分割
 

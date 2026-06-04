@@ -31,7 +31,7 @@ def main():
     左側のサイドバーから各機能を選択してください：
     * **scoreboard**: 財務スコアのレーダチャートとAI診断          
     * **dashboard**: 株価推移と柄主要データ競合比較    
-    * **quick analysis**: 財務諸表データ表示
+    * **financial_charts**: 財務諸表データ表示
     """)
 
     try:

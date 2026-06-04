@@ -92,7 +92,7 @@ def show_common_sidebar():
     ticker_display_dict = {row['Ticker']: f"{row['Ticker']} | {row['LongName']}" for _, row in TICKER_MAP.iterrows()}
     options=list(ticker_display_dict.keys())
     st.sidebar.selectbox(
-        "銘柄検索 (Ticker・社名どちらでも可)",
+        "銘柄検索 (Ticker・半角入力)",
         options, #optionsには「Tickerのリスト」を渡し、表示だけ辞書を通す# ここは ['GOOGL', 'AAPL', ...]
         format_func=lambda x: ticker_display_dict.get(x), # 表示だけ書き換え
         index=None,
