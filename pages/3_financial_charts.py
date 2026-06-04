@@ -12,7 +12,7 @@ def draw_chart(df_chart, rows):
         x='Date',
         y=rows,
     )
-    
+    fig.update_xaxes(type='category')
 
     fig.update_layout(
         
